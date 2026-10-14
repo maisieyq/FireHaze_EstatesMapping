@@ -1,12 +1,13 @@
-
 import streamlit as st
 import streamlit.components.v1 as components
 
 from config import OUTPUT
 
 from estate_data import load_estates
+from coverage import plan_coverage
 from fire_data import get_all_fires
 from haze_data import get_haze_grid
+from haze_data import get_estate_haze_locations
 
 from exposure_analysis import (
     calculate_fire_exposure,
@@ -30,8 +31,14 @@ def prepare_dashboard():
 
     estates, gps_points = load_estates()
 
-    fires = get_all_fires()
-    haze = get_haze_grid()
+    plan = plan_coverage(estates, gps_points)
+    fires = get_all_fires(plan)
+    haze_locations = get_estate_haze_locations(
+        estates,
+        gps_points
+    )
+
+    haze = get_haze_grid(haze_locations)
 
     fire_ranking = calculate_fire_exposure(fires)
     haze_ranking = calculate_haze_exposure(haze)

@@ -1,241 +1,241 @@
-unit_id,Company,SupplyBase,fires_inside,fires_within_10km,total_frp_10km
-136,SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),0.0,2.0,6.16
-0,Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,0.0,0.0,0.0
-1,Hap Seng Plantations,KAWA ESTATE,0.0,0.0,0.0
-2,Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,0.0,0.0,0.0
-3,Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,0.0,0.0,0.0
-4,IOI Corporation,BAHAU ESTATE,0.0,0.0,0.0
-5,IOI Corporation,BATURONG 1 ESTATE,0.0,0.0,0.0
-6,IOI Corporation,BATURONG 2 ESTATE,0.0,0.0,0.0
-7,IOI Corporation,BATURONG 3 ESTATE,0.0,0.0,0.0
-8,IOI Corporation,BAYOK ESTATE,0.0,0.0,0.0
-9,IOI Corporation,BERTAM ESTATE,0.0,0.0,0.0
-10,IOI Corporation,BIMBINGAN 1 ESTATE,0.0,0.0,0.0
-11,IOI Corporation,BIMBINGAN 2 ESTATE,0.0,0.0,0.0
-12,IOI Corporation,BUKIT DINDING ESTATE,0.0,0.0,0.0
-13,IOI Corporation,BUKIT LEELAU ESTATE,0.0,0.0,0.0
-14,IOI Corporation,BUKIT SERAMPANG ESTATE,0.0,0.0,0.0
-15,IOI Corporation,Baturong 2 Estate,0.0,0.0,0.0
-16,IOI Corporation,CANTAWAN ESTATE,0.0,0.0,0.0
-17,IOI Corporation,GOMALI ESTATE,0.0,0.0,0.0
-18,IOI Corporation,JASIN LALANG ESTATE,0.0,0.0,0.0
-19,IOI Corporation,KAHANG ESTATE,0.0,0.0,0.0
-20,IOI Corporation,KUALA JELEI ESTATE,0.0,0.0,0.0
-21,IOI Corporation,LABUK ESTATE,0.0,0.0,0.0
-22,IOI Corporation,LAUKIN ESTATE,0.0,0.0,0.0
-23,IOI Corporation,LEEPANG 1 ESTATE,0.0,0.0,0.0
-24,IOI Corporation,LEEPANG 2 ESTATE,0.0,0.0,0.0
-25,IOI Corporation,LEEPANG 3 ESTATE,0.0,0.0,0.0
-26,IOI Corporation,LEEPANG 4 ESTATE,0.0,0.0,0.0
-27,IOI Corporation,LEEPANG 5 ESTATE,0.0,0.0,0.0
-28,IOI Corporation,LEEPANG A ESTATE,0.0,0.0,0.0
-29,IOI Corporation,LINBAR 1 ESTATE,0.0,0.0,0.0
-30,IOI Corporation,LINBAR 2 ESTATE,0.0,0.0,0.0
-31,IOI Corporation,LUANGMANIS ESTATE,0.0,0.0,0.0
-32,IOI Corporation,MAMOR ESTATE,0.0,0.0,0.0
-33,IOI Corporation,MAYVIN 1 ESTATE,0.0,0.0,0.0
-34,IOI Corporation,MAYVIN 2 ESTATE,0.0,0.0,0.0
-35,IOI Corporation,MAYVIN 5 ESTATE,0.0,0.0,0.0
-36,IOI Corporation,MAYVIN 6 ESTATE,0.0,0.0,0.0
-37,IOI Corporation,MELIAU ESTATE,0.0,0.0,0.0
-38,IOI Corporation,MORISEM 1 ESTATE,0.0,0.0,0.0
-39,IOI Corporation,MORISEM 2 ESTATE,0.0,0.0,0.0
-40,IOI Corporation,MORISEM 3 ESTATE,0.0,0.0,0.0
-41,IOI Corporation,MORISEM 4 ESTATE,0.0,0.0,0.0
-42,IOI Corporation,MORISEM 5 ESTATE,0.0,0.0,0.0
-43,IOI Corporation,MOYNOD ESTATE,0.0,0.0,0.0
-44,IOI Corporation,NANGOH ESTATE,0.0,0.0,0.0
-45,IOI Corporation,PAMOL BARAT ESTATE,0.0,0.0,0.0
-46,IOI Corporation,PAMOL TIMUR ESTATE,0.0,0.0,0.0
-47,IOI Corporation,PAYA LANG ESTATE,0.0,0.0,0.0
-48,IOI Corporation,PERMODALAN 1 ESTATE,0.0,0.0,0.0
-49,IOI Corporation,PERMODALAN 2 ESTATE,0.0,0.0,0.0
-50,IOI Corporation,PERMODALAN 3 ESTATE,0.0,0.0,0.0
-51,IOI Corporation,PERMODALAN 4 ESTATE,0.0,0.0,0.0
-52,IOI Corporation,PUKIN ESTATE,0.0,0.0,0.0
-53,IOI Corporation,REGENT ESTATE,0.0,0.0,0.0
-54,IOI Corporation,RUNGUS ESTATE,0.0,0.0,0.0
-55,IOI Corporation,SAGIL ESTATE,0.0,0.0,0.0
-56,IOI Corporation,SAKILAN ESTATE,0.0,0.0,0.0
-57,IOI Corporation,SEGAMAT ESTATE,0.0,0.0,0.0
-58,IOI Corporation,SHAHZAN IOI 1 ESTATE,0.0,0.0,0.0
-59,IOI Corporation,SHAHZAN IOI 2 ESTATE,0.0,0.0,0.0
-60,IOI Corporation,SUGUT ESTATE,0.0,0.0,0.0
-61,IOI Corporation,SUNGAI SAPI ESTATE,0.0,0.0,0.0
-62,IOI Corporation,SWEE LAM ESTATE,0.0,0.0,0.0
-63,IOI Corporation,SYARIMO 1 ESTATE,0.0,0.0,0.0
-64,IOI Corporation,SYARIMO 2 ESTATE,0.0,0.0,0.0
-65,IOI Corporation,SYARIMO 3 ESTATE,0.0,0.0,0.0
-66,IOI Corporation,SYARIMO 4 ESTATE,0.0,0.0,0.0
-67,IOI Corporation,SYARIMO 5 ESTATE,0.0,0.0,0.0
-68,IOI Corporation,SYARIMO 6 ESTATE,0.0,0.0,0.0
-69,IOI Corporation,SYARIMO 7 ESTATE,0.0,0.0,0.0
-70,IOI Corporation,SYARIMO 8 ESTATE,0.0,0.0,0.0
-71,IOI Corporation,SYARIMO 9 ESTATE,0.0,0.0,0.0
-72,IOI Corporation,TAMBANG ESTATE,0.0,0.0,0.0
-73,IOI Corporation,TANGKULAP ESTATE,0.0,0.0,0.0
-74,IOI Corporation,TAS HALUSAH ESTATE,0.0,0.0,0.0
-75,IOI Corporation,TERUSAN BARU ESTATE,0.0,0.0,0.0
-76,IOI Corporation,TINDAKON ESTATE,0.0,0.0,0.0
-77,IOI Corporation,ULU ESTATE,0.0,0.0,0.0
-78,IOI Corporation,UNICO 6 ESTATE,0.0,0.0,0.0
-79,IOI Corporation,UNIJAYA ESTATE,0.0,0.0,0.0
-80,IOI Corporation,Unico 1 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0
-81,IOI Corporation,Unico 2 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0
-82,IOI Corporation,Unico 3 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0
-83,IOI Corporation,Unico 4 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0
-84,IOI Corporation,Unico 5 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0
-85,SD Guthrie,BAGAN DATOH ESTATE,0.0,0.0,0.0
-86,SD Guthrie,BAYU ESTATE,0.0,0.0,0.0
-87,SD Guthrie,BELIAN ESTATE (SD Guthrie),0.0,0.0,0.0
-88,SD Guthrie,BIKAM ESTATE,0.0,0.0,0.0
-89,SD Guthrie,BINUANG ESTATE,0.0,0.0,0.0
-90,SD Guthrie,BUKIT ASAHAN ESTATE,0.0,0.0,0.0
-91,SD Guthrie,BUKIT BADAK ESTATE,0.0,0.0,0.0
-92,SD Guthrie,BUKIT BENUT ESTATE,0.0,0.0,0.0
-93,SD Guthrie,BUKIT CHERAKA ESTATE,0.0,0.0,0.0
-94,SD Guthrie,BUKIT HIJAU ESTATE,0.0,0.0,0.0
-95,SD Guthrie,BUKIT KERAYONG ESTATE,0.0,0.0,0.0
-96,SD Guthrie,BUKIT PALOH ESTATE,0.0,0.0,0.0
-97,SD Guthrie,BUKIT PELANDOK ESTATE,0.0,0.0,0.0
-98,SD Guthrie,BUKIT PILAH ESTATE,0.0,0.0,0.0
-99,SD Guthrie,BUKIT PUTERI ESTATE,0.0,0.0,0.0
-100,SD Guthrie,BUKIT SELARONG ESTATE,0.0,0.0,0.0
-101,SD Guthrie,BUKIT TALANG ESTATE,0.0,0.0,0.0
-102,SD Guthrie,CENAS ESTATE,0.0,0.0,0.0
-103,SD Guthrie,CEP NIYOR ESTATE,0.0,0.0,0.0
-104,SD Guthrie,CEP RENGAM ESTATE,0.0,0.0,0.0
-105,SD Guthrie,CHAAH ESTATE,0.0,0.0,0.0
-106,SD Guthrie,CHENOR ESTATE,0.0,0.0,0.0
-107,SD Guthrie,CHERSONESE ESTATE,0.0,0.0,0.0
-108,SD Guthrie,CLUNY ESTATE,0.0,0.0,0.0
-109,SD Guthrie,DAMAI ESTATE,0.0,0.0,0.0
-110,SD Guthrie,DERAWAN ESTATE,0.0,0.0,0.0
-111,SD Guthrie,DIAMOND JUBILEE ESTATE,0.0,0.0,0.0
-112,SD Guthrie,DULANG ESTATE,0.0,0.0,0.0
-113,SD Guthrie,DUMPU,0.0,0.0,0.0
-114,SD Guthrie,DUSUN DURIAN ESTATE,0.0,0.0,0.0
-115,SD Guthrie,EAST ESTATE,0.0,0.0,0.0
-116,SD Guthrie,ELPHIL ESTATE,0.0,0.0,0.0
-117,SD Guthrie,ERAP ESTATE,0.0,0.0,0.0
-118,SD Guthrie,FLEMINGTON ESTATE,0.0,0.0,0.0
-119,SD Guthrie,GILIGILI ESTATE,0.0,0.0,0.0
-120,SD Guthrie,GIRAM ESTATE,0.0,0.0,0.0
-121,SD Guthrie,GUNUNG MAS ESTATE,0.0,0.0,0.0
-122,SD Guthrie,GUSAP,0.0,0.0,0.0
-123,SD Guthrie,HAGITA ESTATE,0.0,0.0,0.0
-124,SD Guthrie,HOLYROOD ESTATE,0.0,0.0,0.0
-125,SD Guthrie,IMAM ESTATE,0.0,0.0,0.0
-126,SD Guthrie,JABOR ESTATE,0.0,0.0,0.0
-127,SD Guthrie,JELETA BUMI ESTATE,0.0,0.0,0.0
-128,SD Guthrie,JENTAYU ESTATE,0.0,0.0,0.0
-129,SD Guthrie,JEPHCOTT,0.0,0.0,0.0
-130,SD Guthrie,KALUMPONG ESTATE,0.0,0.0,0.0
-131,SD Guthrie,KAMUNING ESTATE,0.0,0.0,0.0
-132,SD Guthrie,KARA ESTATE,0.0,0.0,0.0
-133,SD Guthrie,KELIDA ESTATE,0.0,0.0,0.0
-134,SD Guthrie,KEMPAS ESTATE,0.0,0.0,0.0
-135,SD Guthrie,KEMPAS KLEBANG ESTATE,0.0,0.0,0.0
-137,SD Guthrie,KERDAU ESTATE,0.0,0.0,0.0
-138,SD Guthrie,KINTA KELLAS ESTATE,0.0,0.0,0.0
-139,SD Guthrie,KOK FOH ESTATE,0.0,0.0,0.0
-140,SD Guthrie,KULAI ESTATE,0.0,0.0,0.0
-141,SD Guthrie,LABU ESTATE,0.0,0.0,0.0
-142,SD Guthrie,LADANG BRADWALL,0.0,0.0,0.0
-143,SD Guthrie,LADANG CHARQUEST,0.0,0.0,0.0
-144,SD Guthrie,LADANG PD LUKUT,0.0,0.0,0.0
-145,SD Guthrie,LADANG SALAK,0.0,0.0,0.0
-146,SD Guthrie,LADANG SENGKANG,0.0,0.0,0.0
-147,SD Guthrie,LADANG SUA BETONG,0.0,0.0,0.0
-148,SD Guthrie,LADANG SUNGEI BAHRU,0.0,0.0,0.0
-149,SD Guthrie,LADANG TAMPIN LINGGI,0.0,0.0,0.0
-150,SD Guthrie,LAMBAK ESTATE,0.0,0.0,0.0
-151,SD Guthrie,LANADRON ESTATE,0.0,0.0,0.0
-152,SD Guthrie,LAVANG ESTATE,0.0,0.0,0.0
-153,SD Guthrie,LAYANG ESTATE,0.0,0.0,0.0
-154,SD Guthrie,MADAK ESTATE,0.0,0.0,0.0
-155,SD Guthrie,MARALUMI ESTATE,0.0,0.0,0.0
-156,SD Guthrie,MELALAP ESTATE,0.0,0.0,0.0
-157,SD Guthrie,MENTAKAB ESTATE,0.0,0.0,0.0
-158,SD Guthrie,MEROTAI ESTATE,0.0,0.0,0.0
-159,SD Guthrie,MOSTYN ESTATE,0.0,0.0,0.0
-160,SD Guthrie,MUAR RIVER ESTATE,0.0,0.0,0.0
-161,SD Guthrie,MUNUM ESTATE,0.0,0.0,0.0
-162,SD Guthrie,NALIK ESTATE,0.0,0.0,0.0
-163,SD Guthrie,NGALIMBIU ESTATE,0.0,0.0,0.0
-164,SD Guthrie,NOATSI ESTATE,0.0,0.0,0.0
-165,SD Guthrie,NORTH LABIS ESTATE,0.0,0.0,0.0
-166,SD Guthrie,PADANG BULUH ESTATE,0.0,0.0,0.0
-167,SD Guthrie,PADDOX,0.0,0.0,0.0
-168,SD Guthrie,PADIPADI ESTATE,0.0,0.0,0.0
-169,SD Guthrie,PAGOH ESTATE,0.0,0.0,0.0
-170,SD Guthrie,PAROH ESTATE,0.0,0.0,0.0
-171,SD Guthrie,PEKAKA ESTATE,0.0,0.0,0.0
-172,SD Guthrie,PEKAN ESTATE,0.0,0.0,0.0
-173,SD Guthrie,PENGKALAN BUKIT ESTATE,0.0,0.0,0.0
-174,SD Guthrie,PERTANG ESTATE,0.0,0.0,0.0
-175,SD Guthrie,RAJAWALI ESTATE,0.0,0.0,0.0
-176,SD Guthrie,RASAN ESTATE,0.0,0.0,0.0
-177,SD Guthrie,RUAI ESTATE,0.0,0.0,0.0
-178,SD Guthrie,SABAK BERNAM ESTATE,0.0,0.0,0.0
-179,SD Guthrie,SAGARAI ESTATE,0.0,0.0,0.0
-180,SD Guthrie,SAHUA ESTATE,0.0,0.0,0.0
-181,SD Guthrie,SAMUDERA ESTATE,0.0,0.0,0.0
-182,SD Guthrie,SAPONG ESTATE,0.0,0.0,0.0
-183,SD Guthrie,SEGALIUD ESTATE,0.0,0.0,0.0
-184,SD Guthrie,SEMARAK ESTATE,0.0,0.0,0.0
-185,SD Guthrie,SEMBRONG ESTATE,0.0,0.0,0.0
-186,SD Guthrie,SENTOSA ESTATE,0.0,0.0,0.0
-187,SD Guthrie,SEPANG ESTATE,0.0,0.0,0.0
-188,SD Guthrie,SERI INTAN ESTATE,0.0,0.0,0.0
-189,SD Guthrie,SERI PULAI ESTATE,0.0,0.0,0.0
-190,SD Guthrie,SERKAM ESTATE,0.0,0.0,0.0
-191,SD Guthrie,SG MAI ESTATE,0.0,0.0,0.0
-192,SD Guthrie,SG. SABALING ESTATE,0.0,0.0,0.0
-193,SD Guthrie,SG. SENARUT ESTATE,0.0,0.0,0.0
-194,SD Guthrie,SG. SIMPANG KIRI ESTATE,0.0,0.0,0.0
-195,SD Guthrie,SOGOMANA ESTATE,0.0,0.0,0.0
-196,SD Guthrie,SOMME ESTATE,0.0,0.0,0.0
-197,SD Guthrie,ST. HELIER ESTATE,0.0,0.0,0.0
-198,SD Guthrie,SUNGAI BULOH ESTATE,0.0,0.0,0.0
-199,SD Guthrie,SUNGAI DINGIN ESTATE,0.0,0.0,0.0
-200,SD Guthrie,SUNGAI SAMAK ESTATE,0.0,0.0,0.0
-201,SD Guthrie,SUNGAI WANGI ESTATE,0.0,0.0,0.0
-202,SD Guthrie,SUNGANG ESTATE,0.0,0.0,0.0
-203,SD Guthrie,SURINAM,0.0,0.0,0.0
-204,SD Guthrie,TABLE ESTATE,0.0,0.0,0.0
-205,SD Guthrie,TAKAU ESTATE,0.0,0.0,0.0
-206,SD Guthrie,TALI AYER ESTATE,0.0,0.0,0.0
-207,SD Guthrie,TANAH MERAH ESTATE,0.0,0.0,0.0
-208,SD Guthrie,TANGKAH ESTATE,0.0,0.0,0.0
-209,SD Guthrie,TENNAMARAM ESTATE,0.0,0.0,0.0
-210,SD Guthrie,TETERE ESTATE,0.0,0.0,0.0
-211,SD Guthrie,TIGER ESTATE,0.0,0.0,0.0
-212,SD Guthrie,TIGOWIS ESTATE,0.0,0.0,0.0
-213,SD Guthrie,TINGKAYU ESTATE,0.0,0.0,0.0
-214,SD Guthrie,TUN DR ISMAIL ESTATE,0.0,0.0,0.0
-215,SD Guthrie,TUN TAN SIEW SIN ESTATE,0.0,0.0,0.0
-216,SD Guthrie,TUNKU ESTATE,0.0,0.0,0.0
-217,SD Guthrie,ULU REMIS ESTATE,0.0,0.0,0.0
-218,SD Guthrie,WAIGANI ESTATE,0.0,0.0,0.0
-219,SD Guthrie,WELCH ESTATE,0.0,0.0,0.0
-220,SD Guthrie,WEST ESTATE,0.0,0.0,0.0
-221,SD Guthrie,West New Britain,0.0,0.0,0.0
-222,SD Guthrie,YONG PENG ESTATE,0.0,0.0,0.0
-223,United Plantations Berhad,CHANGKAT MENTRI ESTATE,0.0,0.0,0.0
-224,United Plantations Berhad,CHARONG ESTATE,0.0,0.0,0.0
-225,United Plantations Berhad,JENDARATA ESTATE,0.0,0.0,0.0
-226,United Plantations Berhad,LIMA BLAS ESTATE,0.0,0.0,0.0
-227,United Plantations Berhad,Ladang Sungei Erong,0.0,0.0,0.0
-228,United Plantations Berhad,Lima Blas Estate,0.0,0.0,0.0
-229,United Plantations Berhad,SERI PELANGI ESTATE,0.0,0.0,0.0
-230,United Plantations Berhad,Seri Pelangi Estate,0.0,0.0,0.0
-231,United Plantations Berhad,Sungai Chawang Estate,0.0,0.0,0.0
-232,United Plantations Berhad,TANARATA ESTATE,0.0,0.0,0.0
-233,United Plantations Berhad,Tanarata Estate,0.0,0.0,0.0
-234,United Plantations Berhad,UIE ESTATE,0.0,0.0,0.0
-235,United Plantations Berhad,UIE Estate,0.0,0.0,0.0
-236,United Plantations Berhad,ULU BASIR ESTATE,0.0,0.0,0.0
-237,United Plantations Berhad,ULU BERNAM ESTATE,0.0,0.0,0.0
-238,United Plantations Berhad,Ulu Basir Estate,0.0,0.0,0.0
-239,United Plantations Berhad,Ulu Bernam Estate,0.0,0.0,0.0
+Company,SupplyBase,fires_inside,fires_within_10km,total_frp_10km,fire_coverage_status
+SD Guthrie,West New Britain,1.0,99.0,433.82,complete
+SD Guthrie,NALIK ESTATE,1.0,94.0,295.38,complete
+SD Guthrie,NOATSI ESTATE,0.0,124.0,576.8,complete
+SD Guthrie,MADAK ESTATE,0.0,95.0,404.25,complete
+SD Guthrie,KARA ESTATE,0.0,82.0,352.48,complete
+SD Guthrie,MARALUMI ESTATE,0.0,14.0,69.84,complete
+SD Guthrie,ERAP ESTATE,0.0,11.0,51.93,complete
+SD Guthrie,PADDOX,0.0,10.0,63.62,complete
+SD Guthrie,JEPHCOTT,0.0,9.0,61.12,complete
+SD Guthrie,DUMPU,0.0,9.0,75.16,complete
+SD Guthrie,SURINAM,0.0,9.0,82.51,complete
+SD Guthrie,GUSAP,0.0,7.0,71.96,complete
+SD Guthrie,MUNUM ESTATE,0.0,3.0,10.940000000000001,complete
+IOI Corporation,KUALA JELEI ESTATE,0.0,2.0,3.32,complete
+IOI Corporation,BAHAU ESTATE,0.0,2.0,3.32,complete
+SD Guthrie,NGALIMBIU ESTATE,0.0,2.0,11.44,complete
+SD Guthrie,TETERE ESTATE,0.0,2.0,11.44,complete
+SD Guthrie,ST. HELIER ESTATE,0.0,2.0,3.32,complete
+SD Guthrie,JABOR ESTATE,0.0,2.0,5.390000000000001,complete
+SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),0.0,1.0,1.3,complete
+Hap Seng Plantations,KAWA ESTATE,0.0,0.0,0.0,complete
+Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,0.0,0.0,0.0,complete
+Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,0.0,0.0,0.0,complete
+Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,Unico 4 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0,complete
+IOI Corporation,UNIJAYA ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,Unico 3 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0,complete
+IOI Corporation,Unico 5 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0,complete
+IOI Corporation,Unico 1 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0,complete
+IOI Corporation,Baturong 2 Estate,0.0,0.0,0.0,complete
+IOI Corporation,KAHANG ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,TAMBANG ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,TERUSAN BARU ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MOYNOD ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BUKIT DINDING ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 4 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,UNICO 6 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,Unico 2 Estate (Unico-Desa Plantations Berhad),0.0,0.0,0.0,complete
+IOI Corporation,SEGAMAT ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,TAS HALUSAH ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MAYVIN 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,CANTAWAN ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MAYVIN 5 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PAMOL BARAT ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MORISEM 4 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 9 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MAYVIN 6 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MORISEM 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PERMODALAN 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SHAHZAN IOI 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PERMODALAN 4 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BERTAM ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SAKILAN ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 5 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 3 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG 5 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 6 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BUKIT LEELAU ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BIMBINGAN 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SWEE LAM ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,TANGKULAP ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PERMODALAN 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG A ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MORISEM 5 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,REGENT ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MORISEM 3 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MAYVIN 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 7 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PUKIN ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,RUNGUS ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BUKIT SERAMPANG ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,GOMALI ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PAYA LANG ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 8 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SYARIMO 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SUGUT ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LAUKIN ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SAGIL ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LINBAR 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,ULU ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PERMODALAN 3 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BAYOK ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SUNGAI SAPI ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BIMBINGAN 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,JASIN LALANG ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,SHAHZAN IOI 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MORISEM 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MELIAU ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BATURONG 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BATURONG 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG 4 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LABUK ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,BATURONG 3 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,TINDAKON ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LINBAR 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,NANGOH ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG 2 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LUANGMANIS ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG 1 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,LEEPANG 3 ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,MAMOR ESTATE,0.0,0.0,0.0,complete
+IOI Corporation,PAMOL TIMUR ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SAGARAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,WAIGANI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,GILIGILI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,RAJAWALI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TALI AYER ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PADIPADI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LADANG SALAK,0.0,0.0,0.0,complete
+SD Guthrie,LADANG BRADWALL,0.0,0.0,0.0,complete
+SD Guthrie,LADANG TAMPIN LINGGI,0.0,0.0,0.0,complete
+SD Guthrie,LADANG SUNGEI BAHRU,0.0,0.0,0.0,complete
+SD Guthrie,LABU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SERI PULAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BIKAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,DAMAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SEPANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT HIJAU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,HAGITA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SERKAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,RUAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT SELARONG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SUNGAI DINGIN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT ASAHAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KINTA KELLAS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,ELPHIL ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SEGALIUD ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TIGER ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SABAK BERNAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT BENUT ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,ULU REMIS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,NORTH LABIS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KELIDA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LAMBAK ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LAVANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,MOSTYN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SG. SIMPANG KIRI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,EAST ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SUNGAI WANGI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KERDAU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LANADRON ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT CHERAKA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SOGOMANA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT TALANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SUNGAI BULOH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,DUSUN DURIAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SG MAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CEP RENGAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KEMPAS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KAMUNING ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TANAH MERAH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KULAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SOMME ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TABLE ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,JENTAYU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,IMAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CHAAH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LADANG CHARQUEST,0.0,0.0,0.0,complete
+SD Guthrie,JELETA BUMI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,GIRAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,MEROTAI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,HOLYROOD ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TIGOWIS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,YONG PENG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SAMUDERA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT PUTERI ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,WEST ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TUNKU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,WELCH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,MENTAKAB ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT PALOH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SENTOSA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SG. SABALING ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,DIAMOND JUBILEE ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CENAS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LAYANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SEMARAK ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PAGOH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SAHUA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TINGKAYU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CLUNY ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SUNGAI SAMAK ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT KERAYONG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,FLEMINGTON ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT PELANDOK ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BAGAN DATOH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TANGKAH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CHERSONESE ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PENGKALAN BUKIT ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PADANG BULUH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TENNAMARAM ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,DULANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SAPONG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,GUNUNG MAS ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,MELALAP ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KOK FOH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KEMPAS KLEBANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SEMBRONG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PEKAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CEP NIYOR ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,MUAR RIVER ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TUN DR ISMAIL ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,DERAWAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT PILAH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,RASAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,CHENOR ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PAROH ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,TAKAU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BUKIT BADAK ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PERTANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,KALUMPONG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SERI INTAN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BAYU ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,LADANG PD LUKUT,0.0,0.0,0.0,complete
+SD Guthrie,LADANG SENGKANG,0.0,0.0,0.0,complete
+SD Guthrie,BELIAN ESTATE (SD Guthrie),0.0,0.0,0.0,complete
+SD Guthrie,LADANG SUA BETONG,0.0,0.0,0.0,complete
+SD Guthrie,TUN TAN SIEW SIN ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SUNGANG ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,PEKAKA ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,SG. SENARUT ESTATE,0.0,0.0,0.0,complete
+SD Guthrie,BINUANG ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,ULU BERNAM ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,UIE ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,TANARATA ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,JENDARATA ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,CHANGKAT MENTRI ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,LIMA BLAS ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,SERI PELANGI ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,Sungai Chawang Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,CHARONG ESTATE,0.0,0.0,0.0,complete
+United Plantations Berhad,Ulu Bernam Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,Tanarata Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,Ulu Basir Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,UIE Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,Ladang Sungei Erong,0.0,0.0,0.0,complete
+United Plantations Berhad,Seri Pelangi Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,Lima Blas Estate,0.0,0.0,0.0,complete
+United Plantations Berhad,ULU BASIR ESTATE,0.0,0.0,0.0,complete
