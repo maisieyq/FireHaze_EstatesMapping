@@ -1,0 +1,192 @@
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f6f8;
+    color: #253141;
+}
+
+.dashboard-header {
+    height: 78px;
+    padding: 14px 25px;
+    background: white;
+    border-bottom: 1px solid #e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dashboard-header h1 {
+    font-size: 20px;
+    margin: 0 0 5px;
+}
+
+.dashboard-header p,
+.panel-heading p {
+    margin: 0;
+    font-size: 12px;
+    color: #7a8491;
+}
+
+.status {
+    font-size: 11px;
+    color: #64748b;
+}
+
+/* Side-by-side layout */
+.dashboard-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 380px;
+    height: calc(100vh - 78px);
+    min-height: 400px;
+    gap: 0;
+}
+
+/* Map */
+.map-panel {
+    min-width: 0;
+    overflow: hidden;
+}
+
+.map-panel iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+/* Ranking panel */
+.analysis-panel {
+    padding: 20px;
+    background: white;
+    border-left: 1px solid #e5e7eb;
+    overflow-y: auto;
+    min-height: 0;
+}
+
+.panel-heading h2 {
+    font-size: 20px;
+    margin: 0 0 5px;
+}
+
+/* Tabs */
+.tab-buttons {
+    display: flex;
+    gap: 8px;
+    margin: 20px 0;
+}
+
+.tab {
+    flex: 1;
+    padding: 12px;
+    border: 1px solid #e5e7eb;
+    background: #f3f4f6;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.tab.active {
+    background: #253141;
+    color: white;
+    border-color: #253141;
+}
+
+.tab:hover:not(.active) {
+    background: #e5e7eb;
+}
+
+/* Ranking */
+.ranking-content h3 {
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.description {
+    font-size: 12px;
+    color: #7a8491;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.rank-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 15px 10px;
+    border-bottom: 1px solid #edf0f2;
+}
+
+.rank-number {
+    font-size: 16px;
+    font-weight: bold;
+    min-width: 32px;
+    color: #667085;
+}
+
+.rank-info {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+
+.rank-info strong {
+    font-size: 12px;
+}
+
+.rank-info span,
+.rank-info small {
+    font-size: 11px;
+    color: #7a8491;
+}
+
+.rank-value {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: right;
+    max-width: 105px;
+}
+
+.hidden {
+    display: none;
+}
+
+.method-note {
+    margin-top: 24px;
+    padding-top: 14px;
+    border-top: 1px solid #e5e7eb;
+    color: #7a8491;
+    line-height: 1.5;
+    font-size: 11px;
+}
+
+/* Responsive: stack on smaller screens */
+@media (max-width: 850px) {
+    .dashboard-layout {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .map-panel {
+        height: 55vh;
+        min-height: 320px;
+    }
+
+    .analysis-panel {
+        border-left: none;
+        border-top: 1px solid #e5e7eb;
+        overflow: visible;
+    }
+
+    .status {
+        display: none;
+    }
+}
