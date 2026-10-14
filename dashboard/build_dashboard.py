@@ -52,8 +52,8 @@ def make_rows(df, ranking_type):
         <div class="rank-card">
             <span class="rank-number">#{rank}</span>
             <div class="rank-info">
-                <strong>{company}</strong>
-                <span>{estate}</span>
+                <strong>{estate}</strong>
+                <span>{company}</span>
                 <small>{escape(details)}</small>
             </div>
             <div class="rank-value">{metric}</div>
