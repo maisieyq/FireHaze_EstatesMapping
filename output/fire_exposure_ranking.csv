@@ -1,0 +1,241 @@
+Company,SupplyBase,area_ha_sum,fires_inside,fires_within_10km,total_frp_10km,frp_missing_count,fire_coverage_status,fires_inside_per_1000ha,fires_10km_per_1000ha
+SD Guthrie,West New Britain,41234.977,4.0,276.0,1752.42,0.0,complete,0.097,6.693
+SD Guthrie,DUMPU,2258.472,3.0,37.0,506.69,0.0,complete,1.328,16.383
+SD Guthrie,PADIPADI ESTATE,6950.719,3.0,7.0,52.07,0.0,complete,0.432,1.007
+SD Guthrie,NALIK ESTATE,1916.145,1.0,114.0,473.77,0.0,complete,0.522,59.494
+SD Guthrie,NOATSI ESTATE,1573.107,0.0,163.0,994.64,0.0,complete,0.0,103.617
+SD Guthrie,MADAK ESTATE,947.018,0.0,141.0,727.93,0.0,complete,0.0,148.888
+SD Guthrie,KARA ESTATE,887.1179999999999,0.0,113.0,656.9399999999999,0.0,complete,0.0,127.379
+SD Guthrie,SURINAM,2205.113,0.0,42.0,542.45,0.0,complete,0.0,19.047
+SD Guthrie,JEPHCOTT,4111.323,0.0,18.0,120.14999999999999,0.0,complete,0.0,4.378
+SD Guthrie,MARALUMI ESTATE,1662.35,0.0,18.0,96.3,0.0,complete,0.0,10.828
+SD Guthrie,ERAP ESTATE,1923.881,0.0,15.0,78.39,0.0,complete,0.0,7.797
+SD Guthrie,GUSAP,8104.613,0.0,14.0,136.09,0.0,complete,0.0,1.727
+SD Guthrie,PADDOX,2099.173,0.0,14.0,93.75999999999999,0.0,complete,0.0,6.669
+SD Guthrie,MUNUM ESTATE,1219.883,0.0,10.0,89.21,0.0,complete,0.0,8.198
+SD Guthrie,SAGARAI ESTATE,2426.714,0.0,7.0,50.36,0.0,complete,0.0,2.885
+SD Guthrie,NGALIMBIU ESTATE,2326.514,0.0,2.0,11.44,0.0,complete,0.0,0.86
+SD Guthrie,TETERE ESTATE,2040.921,0.0,2.0,11.44,0.0,complete,0.0,0.98
+SD Guthrie,HAGITA ESTATE,2968.049,0.0,1.0,3.24,0.0,complete,0.0,0.337
+SD Guthrie,SAPONG ESTATE,2773.3250000000003,0.0,1.0,9.69,0.0,complete,0.0,0.361
+Hap Seng Plantations,KAWA ESTATE,1337.4080000000001,0.0,0.0,0.0,0.0,complete,0.0,0.0
+Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,12884.896,0.0,0.0,0.0,0.0,complete,0.0,0.0
+Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,14413.267,0.0,0.0,0.0,0.0,complete,0.0,0.0
+Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,9963.668,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Unico 4 Estate (Unico-Desa Plantations Berhad),2301.53,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Unico 3 Estate (Unico-Desa Plantations Berhad),2259.198,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Unico 5 Estate (Unico-Desa Plantations Berhad),2307.087,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Unico 1 Estate (Unico-Desa Plantations Berhad),2351.177,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Baturong 2 Estate,4539.71,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,TERUSAN BARU ESTATE,2535.426,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MOYNOD ESTATE,3081.326,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 4 ESTATE,2407.407,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 1 ESTATE,1939.229,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,UNICO 6 ESTATE,1289.484,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,Unico 2 Estate (Unico-Desa Plantations Berhad),2402.66,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,TAS HALUSAH ESTATE,2059.377,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MAYVIN 2 ESTATE,1841.914,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,CANTAWAN ESTATE,1501.774,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MAYVIN 5 ESTATE,1781.07,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MORISEM 4 ESTATE,2060.487,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 9 ESTATE,1820.11,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MAYVIN 6 ESTATE,1863.408,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MORISEM 1 ESTATE,2045.864,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,PERMODALAN 2 ESTATE,2155.828,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,PERMODALAN 4 ESTATE,2077.498,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SAKILAN ESTATE,2348.896,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 5 ESTATE,2326.0139999999997,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 3 ESTATE,2459.352,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LEEPANG 5 ESTATE,1606.9080000000001,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 6 ESTATE,1752.691,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BIMBINGAN 1 ESTATE,1994.618,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,TANGKULAP ESTATE,2374.049,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,PERMODALAN 1 ESTATE,2268.743,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MORISEM 5 ESTATE,1902.333,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MORISEM 3 ESTATE,2031.94,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MAYVIN 1 ESTATE,1649.848,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 7 ESTATE,2219.832,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,RUNGUS ESTATE,2647.809,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 8 ESTATE,1761.986,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SYARIMO 2 ESTATE,2000.078,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SUGUT ESTATE,1882.635,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LAUKIN ESTATE,2151.987,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LINBAR 2 ESTATE,2227.52,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,ULU ESTATE,1847.361,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,PERMODALAN 3 ESTATE,2160.738,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BAYOK ESTATE,2225.157,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,SUNGAI SAPI ESTATE,1360.744,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BIMBINGAN 2 ESTATE,1940.94,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MORISEM 2 ESTATE,2043.713,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,MELIAU ESTATE,3071.308,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BATURONG 2 ESTATE,2479.146,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BATURONG 1 ESTATE,3028.491,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LEEPANG 4 ESTATE,1451.603,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LABUK ESTATE,2732.3,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,BATURONG 3 ESTATE,2077.258,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,TINDAKON ESTATE,1926.889,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LINBAR 1 ESTATE,2646.813,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,NANGOH ESTATE,2319.253,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LEEPANG 2 ESTATE,2173.942,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LUANGMANIS ESTATE,2739.835,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LEEPANG 1 ESTATE,2427.909,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,LEEPANG 3 ESTATE,1927.421,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,WAIGANI ESTATE,7611.571,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,GILIGILI ESTATE,629.365,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,SEGALIUD ESTATE,4865.8859999999995,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TIGER ESTATE,2655.531,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,MOSTYN ESTATE,4050.205,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TABLE ESTATE,2223.605,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,IMAM ESTATE,3755.686,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,JELETA BUMI ESTATE,3130.067,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,GIRAM ESTATE,4304.914,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,MEROTAI ESTATE,3044.042,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TIGOWIS ESTATE,2059.6780000000003,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TUNKU ESTATE,3270.75,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,SENTOSA ESTATE,3558.508,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TINGKAYU ESTATE,2763.3579999999997,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,MELALAP ESTATE,1689.026,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,TUN TAN SIEW SIN ESTATE,3097.339,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,SUNGANG ESTATE,2682.75,0.0,0.0,0.0,0.0,complete,0.0,0.0
+SD Guthrie,BINUANG ESTATE,3304.91,0.0,0.0,0.0,0.0,complete,0.0,0.0
+IOI Corporation,UNIJAYA ESTATE,1285.1670000000001,,,,,incomplete_unknown,,
+IOI Corporation,KAHANG ESTATE,2438.86,,,,,incomplete_unknown,,
+IOI Corporation,TAMBANG ESTATE,2065.095,,,,,incomplete_unknown,,
+IOI Corporation,BUKIT DINDING ESTATE,1679.816,,,,,incomplete_unknown,,
+IOI Corporation,SEGAMAT ESTATE,2230.179,,,,,incomplete_unknown,,
+IOI Corporation,PAMOL BARAT ESTATE,2365.175,,,,,incomplete_unknown,,
+IOI Corporation,SHAHZAN IOI 2 ESTATE,1651.867,,,,,incomplete_unknown,,
+IOI Corporation,BERTAM ESTATE,586.727,,,,,incomplete_unknown,,
+IOI Corporation,BUKIT LEELAU ESTATE,2110.503,,,,,incomplete_unknown,,
+IOI Corporation,SWEE LAM ESTATE,1660.459,,,,,incomplete_unknown,,
+IOI Corporation,LEEPANG A ESTATE,2419.696,,,,,incomplete_unknown,,
+IOI Corporation,REGENT ESTATE,2358.353,,,,,incomplete_unknown,,
+IOI Corporation,PUKIN ESTATE,2480.289,,,,,incomplete_unknown,,
+IOI Corporation,BUKIT SERAMPANG ESTATE,2743.136,,,,,incomplete_unknown,,
+IOI Corporation,GOMALI ESTATE,2590.952,,,,,incomplete_unknown,,
+IOI Corporation,PAYA LANG ESTATE,2548.629,,,,,incomplete_unknown,,
+IOI Corporation,SAGIL ESTATE,2569.247,,,,,incomplete_unknown,,
+IOI Corporation,KUALA JELEI ESTATE,699.1120000000001,,,,,incomplete_unknown,,
+IOI Corporation,JASIN LALANG ESTATE,1633.161,,,,,incomplete_unknown,,
+IOI Corporation,SHAHZAN IOI 1 ESTATE,1580.462,,,,,incomplete_unknown,,
+IOI Corporation,BAHAU ESTATE,3048.388,,,,,incomplete_unknown,,
+IOI Corporation,MAMOR ESTATE,2245.135,,,,,incomplete_unknown,,
+IOI Corporation,PAMOL TIMUR ESTATE,2319.688,,,,,incomplete_unknown,,
+SD Guthrie,RAJAWALI ESTATE,6011.877,,,,,incomplete_unknown,,
+SD Guthrie,TALI AYER ESTATE,3607.167,,,,,incomplete_unknown,,
+SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),2639.577,,,,,incomplete_unknown,,
+SD Guthrie,LADANG SALAK,3929.61,,,,,incomplete_unknown,,
+SD Guthrie,LADANG BRADWALL,3821.0460000000003,,,,,incomplete_unknown,,
+SD Guthrie,LADANG TAMPIN LINGGI,2086.508,,,,,incomplete_unknown,,
+SD Guthrie,LADANG SUNGEI BAHRU,1427.135,,,,,incomplete_unknown,,
+SD Guthrie,LABU ESTATE,4500.611,,,,,incomplete_unknown,,
+SD Guthrie,SERI PULAI ESTATE,2111.202,,,,,incomplete_unknown,,
+SD Guthrie,BIKAM ESTATE,2123.917,,,,,incomplete_unknown,,
+SD Guthrie,DAMAI ESTATE,2899.096,,,,,incomplete_unknown,,
+SD Guthrie,SEPANG ESTATE,7034.405000000001,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT HIJAU ESTATE,2849.229,,,,,incomplete_unknown,,
+SD Guthrie,SERKAM ESTATE,1920.6779999999999,,,,,incomplete_unknown,,
+SD Guthrie,RUAI ESTATE,2526.687,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT SELARONG ESTATE,3947.782,,,,,incomplete_unknown,,
+SD Guthrie,SUNGAI DINGIN ESTATE,4217.139,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT ASAHAN ESTATE,3098.0409999999997,,,,,incomplete_unknown,,
+SD Guthrie,KINTA KELLAS ESTATE,1048.148,,,,,incomplete_unknown,,
+SD Guthrie,ELPHIL ESTATE,1902.785,,,,,incomplete_unknown,,
+SD Guthrie,SABAK BERNAM ESTATE,2553.925,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT BENUT ESTATE,2823.131,,,,,incomplete_unknown,,
+SD Guthrie,ULU REMIS ESTATE,2615.9500000000003,,,,,incomplete_unknown,,
+SD Guthrie,NORTH LABIS ESTATE,3567.7580000000003,,,,,incomplete_unknown,,
+SD Guthrie,KELIDA ESTATE,2466.944,,,,,incomplete_unknown,,
+SD Guthrie,LAMBAK ESTATE,3782.835,,,,,incomplete_unknown,,
+SD Guthrie,LAVANG ESTATE,3036.396,,,,,incomplete_unknown,,
+SD Guthrie,SG. SIMPANG KIRI ESTATE,2317.0550000000003,,,,,incomplete_unknown,,
+SD Guthrie,EAST ESTATE,5506.975,,,,,incomplete_unknown,,
+SD Guthrie,SUNGAI WANGI ESTATE,2204.8360000000002,,,,,incomplete_unknown,,
+SD Guthrie,KERDAU ESTATE,5633.52,,,,,incomplete_unknown,,
+SD Guthrie,LANADRON ESTATE,1708.108,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT CHERAKA ESTATE,3773.511,,,,,incomplete_unknown,,
+SD Guthrie,SOGOMANA ESTATE,2211.7969999999996,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT TALANG ESTATE,3617.5249999999996,,,,,incomplete_unknown,,
+SD Guthrie,SUNGAI BULOH ESTATE,5205.964,,,,,incomplete_unknown,,
+SD Guthrie,DUSUN DURIAN ESTATE,2181.114,,,,,incomplete_unknown,,
+SD Guthrie,SG MAI ESTATE,2847.524,,,,,incomplete_unknown,,
+SD Guthrie,CEP RENGAM ESTATE,3141.241,,,,,incomplete_unknown,,
+SD Guthrie,KEMPAS ESTATE,4564.429,,,,,incomplete_unknown,,
+SD Guthrie,KAMUNING ESTATE,3842.299,,,,,incomplete_unknown,,
+SD Guthrie,TANAH MERAH ESTATE,4268.447,,,,,incomplete_unknown,,
+SD Guthrie,KULAI ESTATE,3093.148,,,,,incomplete_unknown,,
+SD Guthrie,SOMME ESTATE,2464.509,,,,,incomplete_unknown,,
+SD Guthrie,JENTAYU ESTATE,2150.5370000000003,,,,,incomplete_unknown,,
+SD Guthrie,CHAAH ESTATE,2872.213,,,,,incomplete_unknown,,
+SD Guthrie,LADANG CHARQUEST,1450.629,,,,,incomplete_unknown,,
+SD Guthrie,HOLYROOD ESTATE,1339.895,,,,,incomplete_unknown,,
+SD Guthrie,YONG PENG ESTATE,3363.1949999999997,,,,,incomplete_unknown,,
+SD Guthrie,SAMUDERA ESTATE,2397.588,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT PUTERI ESTATE,3929.017,,,,,incomplete_unknown,,
+SD Guthrie,WEST ESTATE,5654.451999999999,,,,,incomplete_unknown,,
+SD Guthrie,WELCH ESTATE,1440.972,,,,,incomplete_unknown,,
+SD Guthrie,MENTAKAB ESTATE,3332.347,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT PALOH ESTATE,3130.451,,,,,incomplete_unknown,,
+SD Guthrie,SG. SABALING ESTATE,1334.476,,,,,incomplete_unknown,,
+SD Guthrie,DIAMOND JUBILEE ESTATE,2876.4900000000002,,,,,incomplete_unknown,,
+SD Guthrie,CENAS ESTATE,1898.848,,,,,incomplete_unknown,,
+SD Guthrie,LAYANG ESTATE,3122.052,,,,,incomplete_unknown,,
+SD Guthrie,ST. HELIER ESTATE,1991.605,,,,,incomplete_unknown,,
+SD Guthrie,SEMARAK ESTATE,3588.642,,,,,incomplete_unknown,,
+SD Guthrie,PAGOH ESTATE,2320.105,,,,,incomplete_unknown,,
+SD Guthrie,SAHUA ESTATE,2374.785,,,,,incomplete_unknown,,
+SD Guthrie,CLUNY ESTATE,1591.6550000000002,,,,,incomplete_unknown,,
+SD Guthrie,SUNGAI SAMAK ESTATE,2984.362,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT KERAYONG ESTATE,3145.461,,,,,incomplete_unknown,,
+SD Guthrie,FLEMINGTON ESTATE,1954.9070000000002,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT PELANDOK ESTATE,1846.292,,,,,incomplete_unknown,,
+SD Guthrie,BAGAN DATOH ESTATE,3809.822,,,,,incomplete_unknown,,
+SD Guthrie,TANGKAH ESTATE,2627.037,,,,,incomplete_unknown,,
+SD Guthrie,CHERSONESE ESTATE,3316.755,,,,,incomplete_unknown,,
+SD Guthrie,PENGKALAN BUKIT ESTATE,3119.224,,,,,incomplete_unknown,,
+SD Guthrie,PADANG BULUH ESTATE,3927.333,,,,,incomplete_unknown,,
+SD Guthrie,TENNAMARAM ESTATE,1969.314,,,,,incomplete_unknown,,
+SD Guthrie,JABOR ESTATE,2334.982,,,,,incomplete_unknown,,
+SD Guthrie,DULANG ESTATE,2479.367,,,,,incomplete_unknown,,
+SD Guthrie,GUNUNG MAS ESTATE,3484.27,,,,,incomplete_unknown,,
+SD Guthrie,KOK FOH ESTATE,2316.223,,,,,incomplete_unknown,,
+SD Guthrie,KEMPAS KLEBANG ESTATE,2491.534,,,,,incomplete_unknown,,
+SD Guthrie,SEMBRONG ESTATE,1806.486,,,,,incomplete_unknown,,
+SD Guthrie,PEKAN ESTATE,3280.523,,,,,incomplete_unknown,,
+SD Guthrie,CEP NIYOR ESTATE,1971.6820000000002,,,,,incomplete_unknown,,
+SD Guthrie,MUAR RIVER ESTATE,1593.0620000000001,,,,,incomplete_unknown,,
+SD Guthrie,TUN DR ISMAIL ESTATE,4291.925,,,,,incomplete_unknown,,
+SD Guthrie,DERAWAN ESTATE,2388.676,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT PILAH ESTATE,3683.56,,,,,incomplete_unknown,,
+SD Guthrie,RASAN ESTATE,3439.407,,,,,incomplete_unknown,,
+SD Guthrie,CHENOR ESTATE,2003.286,,,,,incomplete_unknown,,
+SD Guthrie,PAROH ESTATE,2528.25,,,,,incomplete_unknown,,
+SD Guthrie,TAKAU ESTATE,2269.888,,,,,incomplete_unknown,,
+SD Guthrie,BUKIT BADAK ESTATE,3257.733,,,,,incomplete_unknown,,
+SD Guthrie,PERTANG ESTATE,1070.5529999999999,,,,,incomplete_unknown,,
+SD Guthrie,KALUMPONG ESTATE,2709.503,,,,,incomplete_unknown,,
+SD Guthrie,SERI INTAN ESTATE,3777.117,,,,,incomplete_unknown,,
+SD Guthrie,BAYU ESTATE,2378.072,,,,,incomplete_unknown,,
+SD Guthrie,LADANG PD LUKUT,1475.196,,,,,incomplete_unknown,,
+SD Guthrie,LADANG SENGKANG,2829.0570000000002,,,,,incomplete_unknown,,
+SD Guthrie,BELIAN ESTATE (SD Guthrie),2857.251,,,,,incomplete_unknown,,
+SD Guthrie,LADANG SUA BETONG,3032.029,,,,,incomplete_unknown,,
+SD Guthrie,PEKAKA ESTATE,2743.482,,,,,incomplete_unknown,,
+SD Guthrie,SG. SENARUT ESTATE,2003.546,,,,,incomplete_unknown,,
+United Plantations Berhad,ULU BERNAM ESTATE,3290.255,,,,,incomplete_unknown,,
+United Plantations Berhad,UIE ESTATE,10540.909,,,,,incomplete_unknown,,
+United Plantations Berhad,TANARATA ESTATE,3741.3959999999997,,,,,incomplete_unknown,,
+United Plantations Berhad,JENDARATA ESTATE,12839.784,,,,,incomplete_unknown,,
+United Plantations Berhad,CHANGKAT MENTRI ESTATE,5036.787,,,,,incomplete_unknown,,
+United Plantations Berhad,LIMA BLAS ESTATE,2895.483,,,,,incomplete_unknown,,
+United Plantations Berhad,SERI PELANGI ESTATE,1423.317,,,,,incomplete_unknown,,
+United Plantations Berhad,Sungai Chawang Estate,6584.52,,,,,incomplete_unknown,,
+United Plantations Berhad,CHARONG ESTATE,3696.994,,,,,incomplete_unknown,,
+United Plantations Berhad,Ulu Bernam Estate,3268.4159999999997,,,,,incomplete_unknown,,
+United Plantations Berhad,Tanarata Estate,3641.239,,,,,incomplete_unknown,,
+United Plantations Berhad,Ulu Basir Estate,3846.2780000000002,,,,,incomplete_unknown,,
+United Plantations Berhad,UIE Estate,10471.192,,,,,incomplete_unknown,,
+United Plantations Berhad,Ladang Sungei Erong,3672.455,,,,,incomplete_unknown,,
+United Plantations Berhad,Seri Pelangi Estate,1413.879,,,,,incomplete_unknown,,
+United Plantations Berhad,Lima Blas Estate,2876.264,,,,,incomplete_unknown,,
+United Plantations Berhad,ULU BASIR ESTATE,3871.99,,,,,incomplete_unknown,,

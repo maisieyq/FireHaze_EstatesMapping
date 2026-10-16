@@ -1,0 +1,241 @@
+Company,SupplyBase,pm2_5,pm25_24h_model,coverage_pct,haze_coverage_status,distance_to_sample_km,polygon_features,haze_time,quality_flag,source
+SD Guthrie,BUKIT PELANDOK ESTATE,92.7,88.5125,100.0,complete,22.1,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DUSUN DURIAN ESTATE,92.7,88.51249999999999,100.0,complete,13.1,10,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,EAST ESTATE,92.21156081151629,87.8794571043994,100.0,complete,24.1,10,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,WEST ESTATE,90.8,86.05000000000003,100.0,complete,17.5,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SWEE LAM ESTATE,89.90000000000002,68.22916666666667,100.0,complete,11.2,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LAYANG ESTATE,89.9,68.22916666666667,100.0,complete,25.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KULAI ESTATE,89.89999999999999,68.22916666666667,100.0,complete,9.5,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SERI PULAI ESTATE,89.89999999999999,68.22916666666666,100.0,complete,12.2,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SUNGAI BULOH ESTATE,89.20000000000002,78.3,100.0,complete,19.4,15,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT CHERAKA ESTATE,89.19967669366804,78.2999956218934,100.0,complete,18.1,19,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT KERAYONG ESTATE,89.17742779198342,78.29969433468311,100.0,complete,19.7,17,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT TALANG ESTATE,70.03118961168202,60.979667098591804,100.0,complete,24.0,25,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SEPANG ESTATE,65.50927670499496,58.83773806029081,100.0,complete,18.1,19,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG TAMPIN LINGGI,63.60000000000001,66.18750000000001,100.0,complete,13.7,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG SUA BETONG,63.6,66.1875,100.0,complete,14.8,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG PD LUKUT,63.6,66.1875,100.0,complete,22.5,17,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG BRADWALL,63.6,66.1875,100.0,complete,19.5,8,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG SUNGEI BAHRU,63.599999999999994,66.18749999999999,100.0,complete,11.4,16,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG SENGKANG,63.59999999999999,66.18749999999999,100.0,complete,7.4,17,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG SALAK,63.544976702522646,66.15438744557346,100.0,complete,23.2,21,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TENNAMARAM ESTATE,60.43459519406252,62.040597758068714,100.0,complete,26.0,15,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KEMPAS ESTATE,58.80817846000015,58.608253445648224,100.0,complete,19.4,15,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TANAH MERAH ESTATE,56.70754349298469,63.865938051747314,100.0,complete,27.6,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SERKAM ESTATE,56.56474104456864,57.46796532049272,100.0,complete,13.4,18,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,53.14164665357019,37.43502537518864,100.0,complete,26.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,ULU BERNAM ESTATE,48.80000000000001,41.79583333333333,100.0,complete,15.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Ulu Bernam Estate,48.800000000000004,41.79583333333333,100.0,complete,15.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,ULU BASIR ESTATE,48.8,41.79583333333333,100.0,complete,14.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Lima Blas Estate,48.8,41.79583333333333,100.0,complete,24.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,CHANGKAT MENTRI ESTATE,48.8,41.79583333333333,100.0,complete,17.3,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SUNGAI SAMAK ESTATE,48.8,41.79583333333333,100.0,complete,20.1,7,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,LIMA BLAS ESTATE,48.79999999999999,41.79583333333332,100.0,complete,24.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SABAK BERNAM ESTATE,48.79999999999999,41.79583333333332,100.0,complete,27.0,8,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Ulu Basir Estate,48.79999999999999,41.79583333333332,100.0,complete,14.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CHAAH ESTATE,46.2,53.86249999999998,100.0,complete,24.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SG. SIMPANG KIRI ESTATE,46.2,53.86249999999999,100.0,complete,25.1,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PENGKALAN BUKIT ESTATE,46.199999999999996,53.86249999999998,100.0,complete,14.5,8,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PAGOH ESTATE,46.199999999999996,53.86249999999999,100.0,complete,14.4,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Ladang Sungei Erong,45.52948629731337,38.30459834202642,100.0,complete,21.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,CHARONG ESTATE,45.52948157340801,38.3045932993129,100.0,complete,21.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TANGKAH ESTATE,45.106816805397116,49.59739870907796,100.0,complete,22.4,13,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,JENDARATA ESTATE,44.400000000000006,35.800000000000004,100.0,complete,25.6,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,FLEMINGTON ESTATE,44.4,35.800000000000004,100.0,complete,15.5,16,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BAGAN DATOH ESTATE,44.4,35.800000000000004,100.0,complete,4.1,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),44.217876121818,51.565897776108315,100.0,complete,14.3,23,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,GIRAM ESTATE,43.56909148475439,30.904250085870856,100.0,complete,27.7,14,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Unico 3 Estate (Unico-Desa Plantations Berhad),43.4762214290204,28.14929142996763,100.0,complete,23.9,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT ASAHAN ESTATE,42.70000000000001,50.420833333333334,100.0,complete,16.5,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,REGENT ESTATE,42.7,50.42083333333333,100.0,complete,12.6,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DIAMOND JUBILEE ESTATE,42.7,50.42083333333332,100.0,complete,13.0,12,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,JASIN LALANG ESTATE,42.7,50.42083333333332,100.0,complete,17.3,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BERTAM ESTATE,42.7,50.42083333333333,100.0,complete,17.9,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PERMODALAN 3 ESTATE,42.50000000000001,27.404166666666672,100.0,complete,17.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Unico 4 Estate (Unico-Desa Plantations Berhad),42.5,27.40416666666667,100.0,complete,29.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PERMODALAN 2 ESTATE,42.5,27.40416666666667,100.0,complete,12.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG 5 ESTATE,42.5,27.40416666666667,100.0,complete,4.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MORISEM 1 ESTATE,42.5,27.40416666666667,100.0,complete,15.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MORISEM 2 ESTATE,42.5,27.40416666666667,100.0,complete,18.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PERMODALAN 1 ESTATE,42.5,27.40416666666667,100.0,complete,10.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PERMODALAN 4 ESTATE,42.5,27.40416666666667,100.0,complete,16.3,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG 2 ESTATE,42.5,27.40416666666667,100.0,complete,10.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG 3 ESTATE,42.5,27.40416666666667,100.0,complete,4.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG 1 ESTATE,42.5,27.40416666666667,100.0,complete,7.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,42.5,27.40416666666667,100.0,complete,20.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Unico 2 Estate (Unico-Desa Plantations Berhad),42.5,27.40416666666667,100.0,complete,21.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TUNKU ESTATE,42.5,27.40416666666667,100.0,complete,24.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG 4 ESTATE,42.5,27.404166666666672,100.0,complete,8.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MORISEM 3 ESTATE,42.5,27.40416666666667,100.0,complete,12.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Unico 1 Estate (Unico-Desa Plantations Berhad),42.5,27.40416666666667,100.0,complete,24.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TIGOWIS ESTATE,42.49999999999999,27.404166666666665,100.0,complete,25.0,7,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MORISEM 5 ESTATE,42.49999999999999,27.40416666666667,100.0,complete,9.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LABU ESTATE,42.28537220835126,54.11589776088181,100.0,complete,20.1,25,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SERI INTAN ESTATE,40.94066564525272,32.565698874962045,100.0,complete,19.5,11,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LANADRON ESTATE,40.87281413119077,47.62308768922496,100.0,complete,21.4,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,UIE ESTATE,40.7,29.35416666666667,100.0,complete,11.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SOGOMANA ESTATE,40.7,29.35416666666667,100.0,complete,12.8,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,UIE Estate,40.7,29.354166666666664,100.0,complete,11.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SUNGAI WANGI ESTATE,40.699999999999996,29.354166666666668,100.0,complete,14.9,21,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,NOATSI ESTATE,40.135553603303514,25.541072944371834,100.0,complete,20.1,35,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SEMBRONG ESTATE,39.9,40.54583333333333,100.0,complete,20.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT BADAK ESTATE,39.9,40.545833333333334,100.0,complete,17.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CENAS ESTATE,39.9,40.54583333333333,100.0,complete,8.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,ULU REMIS ESTATE,39.9,40.54583333333333,100.0,complete,22.0,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PEKAN ESTATE,39.89999999999999,40.54583333333333,100.0,complete,17.1,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,NALIK ESTATE,39.57165092938918,28.190985157224038,100.0,complete,16.6,98,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+Hap Seng Plantations,KAWA ESTATE,39.3,25.3625,100.0,complete,7.3,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TABLE ESTATE,39.3,25.3625,100.0,complete,14.9,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TIGER ESTATE,39.3,25.362500000000004,100.0,complete,17.5,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,IMAM ESTATE,39.3,25.3625,100.0,complete,14.5,13,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BUKIT LEELAU ESTATE,38.9,32.71666666666666,100.0,complete,13.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KARA ESTATE,38.3,27.833333333333332,100.0,complete,12.8,40,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SEGAMAT ESTATE,38.0,44.25833333333335,100.0,complete,13.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SAGIL ESTATE,38.0,44.25833333333335,100.0,complete,20.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BUKIT SERAMPANG ESTATE,38.0,44.25833333333335,100.0,complete,14.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SG. SENARUT ESTATE,38.0,44.25833333333335,100.0,complete,20.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,WELCH ESTATE,38.0,44.25833333333335,100.0,complete,17.2,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Unico 5 Estate (Unico-Desa Plantations Berhad),37.4,30.120833333333337,100.0,complete,24.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,TAS HALUSAH ESTATE,37.4,30.120833333333337,100.0,complete,17.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,CANTAWAN ESTATE,37.4,30.120833333333334,100.0,complete,16.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MORISEM 4 ESTATE,37.4,30.120833333333337,100.0,complete,18.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,37.39999999999999,30.12083333333333,100.0,complete,16.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SG MAI ESTATE,36.8,33.34583333333334,100.0,complete,18.0,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KINTA KELLAS ESTATE,36.699999999999996,23.879166666666656,100.0,complete,14.3,11,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LEEPANG A ESTATE,36.69930536728581,33.61139352491663,100.0,complete,28.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MEROTAI ESTATE,36.52632492379378,24.377976181676804,100.0,complete,20.6,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KALUMPONG ESTATE,36.395976826746455,28.762974101400392,100.0,complete,25.5,10,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CHENOR ESTATE,36.1,33.545833333333334,100.0,complete,29.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT PUTERI ESTATE,35.99900799614764,37.71125704279213,100.0,complete,26.1,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MUAR RIVER ESTATE,35.91626415042227,42.00405362701934,100.0,complete,21.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,KAHANG ESTATE,35.5,33.5,100.0,complete,14.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,UNICO 6 ESTATE,35.1734579878463,29.361086256207912,100.0,complete,13.4,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MOSTYN ESTATE,34.96182143866792,25.500046623154464,100.0,complete,23.4,14,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TUN DR ISMAIL ESTATE,34.9,43.3125,100.0,complete,26.1,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,YONG PENG ESTATE,34.9,43.31249999999999,100.0,complete,11.6,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LAMBAK ESTATE,34.9,43.31249999999999,100.0,complete,13.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT PALOH ESTATE,34.9,43.3125,100.0,complete,17.6,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,UNIJAYA ESTATE,34.9,43.3125,100.0,complete,11.2,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PAMOL TIMUR ESTATE,34.9,43.3125,100.0,complete,25.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PAMOL BARAT ESTATE,34.9,43.3125,100.0,complete,20.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MAMOR ESTATE,34.9,43.3125,100.0,complete,23.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CEP RENGAM ESTATE,34.9,43.31250000000001,100.0,complete,24.0,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT BENUT ESTATE,34.9,43.3125,100.0,complete,17.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CEP NIYOR ESTATE,34.89999999999999,43.3125,100.0,complete,10.5,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Tanarata Estate,34.6,26.637500000000003,100.0,complete,10.2,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Seri Pelangi Estate,34.6,26.6375,100.0,complete,3.3,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,SERI PELANGI ESTATE,34.6,26.637499999999992,100.0,complete,3.3,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,TANARATA ESTATE,34.6,26.6375,100.0,complete,10.2,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+United Plantations Berhad,Sungai Chawang Estate,34.599999999999994,26.637499999999996,100.0,complete,17.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BIKAM ESTATE,34.59999999999999,26.637499999999992,100.0,complete,15.2,13,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,NORTH LABIS ESTATE,34.41568371509502,38.60924225732239,100.0,complete,18.7,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KERDAU ESTATE,34.3,36.54166666666666,100.0,complete,11.4,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CHERSONESE ESTATE,34.24651347476675,26.30749455416514,100.0,complete,21.1,16,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KEMPAS KLEBANG ESTATE,32.99339499280363,37.96010365167269,100.0,complete,20.6,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,Baturong 2 Estate,32.800000000000004,23.93333333333334,100.0,complete,6.8,7,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TINGKAYU ESTATE,32.800000000000004,23.933333333333337,100.0,complete,13.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BINUANG ESTATE,32.8,23.933333333333337,100.0,complete,13.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,JELETA BUMI ESTATE,32.8,23.933333333333334,100.0,complete,10.6,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BATURONG 1 ESTATE,32.8,23.933333333333334,100.0,complete,11.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BATURONG 3 ESTATE,32.8,23.933333333333337,100.0,complete,4.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BATURONG 2 ESTATE,32.8,23.933333333333337,100.0,complete,5.5,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SUNGANG ESTATE,32.8,23.933333333333337,100.0,complete,20.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,GUNUNG MAS ESTATE,31.700000000000003,34.329166666666666,100.0,complete,17.9,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MENTAKAB ESTATE,31.566732636187044,37.56064792071973,100.0,complete,19.9,8,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TALI AYER ESTATE,30.50000000000001,22.029166666666672,100.0,complete,20.6,14,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,JENTAYU ESTATE,30.391554109508462,24.1501155854716,100.0,complete,27.1,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SHAHZAN IOI 1 ESTATE,29.600000000000005,35.170833333333334,100.0,complete,4.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SHAHZAN IOI 2 ESTATE,29.6,35.170833333333334,100.0,complete,7.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PUKIN ESTATE,29.6,35.170833333333334,100.0,complete,17.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,GOMALI ESTATE,29.6,35.170833333333334,100.0,complete,25.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,TAMBANG ESTATE,29.6,35.170833333333334,100.0,complete,20.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,PAYA LANG ESTATE,29.599999999999998,35.170833333333334,100.0,complete,23.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BUKIT DINDING ESTATE,29.4,41.0625,100.0,complete,22.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PADANG BULUH ESTATE,29.027716671848303,23.49594937264042,100.0,complete,21.0,19,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SAKILAN ESTATE,28.9,22.579166666666666,100.0,complete,25.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,JABOR ESTATE,26.7,27.670833333333334,100.0,complete,12.7,32,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT PILAH ESTATE,26.527253526479814,40.030619903028594,100.0,complete,17.0,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DUMPU,25.099999999999994,27.708333333333325,100.0,complete,21.7,225,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PERTANG ESTATE,23.60000000000001,38.15000000000001,100.0,complete,26.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,ST. HELIER ESTATE,23.600000000000005,38.150000000000006,100.0,complete,7.6,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BAHAU ESTATE,23.6,38.150000000000006,100.0,complete,5.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SG. SABALING ESTATE,23.6,38.150000000000006,100.0,complete,9.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KOK FOH ESTATE,23.6,38.150000000000006,100.0,complete,13.4,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,KUALA JELEI ESTATE,23.599999999999998,38.150000000000006,100.0,complete,3.6,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SURINAM,23.414310876585464,26.323258770261052,100.0,complete,22.9,174,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SOMME ESTATE,22.9898898725872,18.71741671464783,100.0,complete,22.0,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SUGUT ESTATE,20.7,20.229166666666668,100.0,complete,24.7,4,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BAYU ESTATE,20.6,14.35,100.0,complete,21.8,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DERAWAN ESTATE,20.6,14.35,100.0,complete,27.2,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SAHUA ESTATE,20.6,14.35,100.0,complete,24.5,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MELALAP ESTATE,20.500000000000004,19.495833333333337,100.0,complete,3.2,10,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 1 ESTATE,20.5,24.354166666666668,100.0,complete,24.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TUN TAN SIEW SIN ESTATE,19.4,22.991666666666664,100.0,complete,22.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SENTOSA ESTATE,19.4,22.99166666666666,100.0,complete,19.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SAPONG ESTATE,18.937625197191096,19.63487963455419,100.0,complete,18.8,8,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KAMUNING ESTATE,18.44759202758557,17.906171996028075,100.0,complete,19.4,13,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DAMAI ESTATE,18.30300341899682,13.028490749070285,100.0,complete,27.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PAROH ESTATE,18.0,12.854166666666666,100.0,complete,21.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LAVANG ESTATE,18.0,12.854166666666666,100.0,complete,20.2,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,DULANG ESTATE,18.0,12.854166666666666,100.0,complete,17.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,ELPHIL ESTATE,18.0,17.72916666666667,100.0,complete,12.4,6,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,LADANG CHARQUEST,18.0,12.854166666666666,100.0,complete,12.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,RUAI ESTATE,18.0,12.854166666666666,100.0,complete,17.1,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,RASAN ESTATE,18.0,12.854166666666666,100.0,complete,21.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SAMUDERA ESTATE,18.0,12.854166666666666,100.0,complete,23.3,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PEKAKA ESTATE,18.0,12.854166666666666,100.0,complete,13.8,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT SELARONG ESTATE,17.70440849965664,18.708453001764955,100.0,complete,21.7,29,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PADDOX,17.600000000000005,21.545833333333327,100.0,complete,5.9,94,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,JEPHCOTT,17.599999999999998,21.54583333333333,100.0,complete,9.7,235,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SUNGAI SAPI ESTATE,17.2,20.9,100.0,complete,24.3,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BAYOK ESTATE,17.2,20.9,100.0,complete,16.3,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TAKAU ESTATE,16.377440208503682,14.59570929821207,100.0,complete,25.3,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BUKIT HIJAU ESTATE,15.553095732213873,17.785657609772095,100.0,complete,10.2,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,KELIDA ESTATE,15.000000000000002,14.112500000000002,100.0,complete,18.3,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,RAJAWALI ESTATE,15.000000000000002,14.112500000000004,100.0,complete,28.4,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,BELIAN ESTATE (SD Guthrie),14.999999999999998,14.112500000000002,100.0,complete,18.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 5 ESTATE,14.800000000000002,18.00833333333333,100.0,complete,21.7,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 7 ESTATE,14.8,18.00833333333333,100.0,complete,13.5,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 6 ESTATE,14.8,18.00833333333333,100.0,complete,21.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 3 ESTATE,14.8,18.00833333333333,100.0,complete,26.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 9 ESTATE,14.8,18.00833333333333,100.0,complete,13.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 8 ESTATE,14.8,18.00833333333333,100.0,complete,16.5,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 2 ESTATE,14.8,18.00833333333333,100.0,complete,23.2,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SEMARAK ESTATE,14.8,14.6875,100.0,complete,25.5,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,SYARIMO 4 ESTATE,14.63290386710681,18.075823102062365,100.0,complete,26.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MAYVIN 1 ESTATE,14.600000000000001,21.28333333333333,100.0,complete,4.9,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,TANGKULAP ESTATE,14.600000000000001,21.28333333333333,100.0,complete,12.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MAYVIN 2 ESTATE,14.6,21.283333333333328,100.0,complete,7.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MAYVIN 6 ESTATE,14.6,21.28333333333333,100.0,complete,22.8,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MAYVIN 5 ESTATE,14.6,21.28333333333333,100.0,complete,19.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,CLUNY ESTATE,14.360810477144856,27.54646633273751,100.0,complete,24.1,5,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MADAK ESTATE,13.240379169139342,10.882557380113157,100.0,complete,11.9,19,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,HOLYROOD ESTATE,12.5,14.091666666666669,100.0,complete,12.1,9,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SUNGAI DINGIN ESTATE,12.250168159029142,14.197250361362684,100.0,complete,21.4,7,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,ERAP ESTATE,11.300000000000002,11.891666666666666,100.0,complete,24.1,100,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MUNUM ESTATE,11.3,11.891666666666666,100.0,complete,16.5,83,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MELIAU ESTATE,10.8,20.0625,100.0,complete,11.0,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,NANGOH ESTATE,10.8,20.0625,100.0,complete,10.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,RUNGUS ESTATE,10.8,20.0625,100.0,complete,15.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,TINDAKON ESTATE,10.8,20.0625,100.0,complete,18.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,ULU ESTATE,10.8,20.0625,100.0,complete,21.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,MARALUMI ESTATE,10.403407403129666,11.698084174160572,100.0,complete,25.8,199,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,GUSAP,10.202829177841371,12.600472592306241,100.0,complete,12.8,294,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BIMBINGAN 1 ESTATE,8.6,20.5125,100.0,complete,19.0,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,MOYNOD ESTATE,8.6,20.5125,100.0,complete,13.9,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,TERUSAN BARU ESTATE,8.6,20.5125,100.0,complete,17.2,3,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,BIMBINGAN 2 ESTATE,8.6,20.5125,100.0,complete,16.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LUANGMANIS ESTATE,8.6,20.5125,100.0,complete,17.1,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LAUKIN ESTATE,8.6,20.5125,100.0,complete,21.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LABUK ESTATE,8.6,20.5125,100.0,complete,15.4,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LINBAR 2 ESTATE,8.6,20.5125,100.0,complete,12.6,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+IOI Corporation,LINBAR 1 ESTATE,8.6,20.5125,100.0,complete,9.7,1,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SEGALIUD ESTATE,8.6,20.512500000000003,100.0,complete,20.2,2,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,West New Britain,8.252868831268986,7.110599030341878,100.0,complete,11.7,986,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,HAGITA ESTATE,5.200000000000001,6.045833333333335,100.0,complete,10.5,28,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,WAIGANI ESTATE,5.2,6.045833333333333,100.0,complete,19.2,544,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,GILIGILI ESTATE,5.199999999999999,6.045833333333334,100.0,complete,12.0,126,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,NGALIMBIU ESTATE,5.199999999999998,6.858333333333333,100.0,complete,21.9,91,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,SAGARAI ESTATE,4.839287827665042,5.913071214348939,100.0,complete,18.8,375,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,TETERE ESTATE,4.819746124545671,7.054797835651402,100.0,complete,25.8,142,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution
+SD Guthrie,PADIPADI ESTATE,4.599999999999999,5.825,100.0,complete,2.7,177,2026-10-14T13:00,ok,Open-Meteo CAMS Global model; ~45 km native resolution

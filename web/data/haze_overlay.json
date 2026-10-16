@@ -1,0 +1,16 @@
+{
+  "bounds": [
+    [
+      -3.85,
+      99.15
+    ],
+    [
+      7.35,
+      119.85
+    ]
+  ],
+  "sample_count": 291,
+  "method": "IDW visualization",
+  "max_distance_km": 65,
+  "model_time": "2026-10-15T02:00"
+}

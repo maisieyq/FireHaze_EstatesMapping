@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Palm Oil Fire & Haze Monitor</title>
+        <link rel="preconnect" href="https://unpkg.com">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <body>
+        <main class="shell">
+            <header class="header">
+                <div>
+                    <div class="eyebrow">ESTATE EXPOSURE INTELLIGENCE</div>
+                    <h1>Palm Oil Fire & Haze Monitor</h1>
+                    <p>NASA FIRMS thermal detections · Open-Meteo / CAMS modelled PM2.5 · Plantation boundaries</p>
+                </div>
+                
+                <div class="header-side">
+
+                    <span class="chip" id="snapshot">
+                        Loading saved snapshot…
+                    </span>
+
+                    <div class="refresh-controls">
+                        <span id="update-status" class="update-status">
+                            Checking update status...
+                        </span>
+
+                        <button
+                            id="refresh-data-btn"
+                            type="button"
+                            class="refresh-data-btn"
+                        >
+                            ↻ Refresh Data
+                        </button>
+                    </div>
+
+                    <span class="subtle">
+                        Regional screening, not incident attribution
+                    </span>
+
+                </div>
+
+            </header>
+            <section class="metrics" aria-label="Overview metrics">
+                <div class="metric">
+                    <span class="metric-label">🔥 NASA FIRMS</span>
+                    <strong id="fire-status">—</strong>
+                    <small id="fire-updated">Saved satellite detections</small>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">☁ Open-Meteo PM2.5</span>
+                    <strong id="haze-status">—</strong>
+                    <small id="haze-updated">CAMS model snapshot</small>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Companies</span>
+                    <strong id="companies">—</strong>
+                    <small>Polygon + reference-only</small>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Supply Bases</span>
+                    <strong id="bases">—</strong>
+                    <small>Unique ranked supply bases</small>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Fire Ranking</span>
+                    <strong id="fire-available">—</strong>
+                    <small>Available / total</small>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Haze Ranking</span>
+                    <strong id="haze-available">—</strong>
+                    <small>Available / total</small>
+                </div>
+            </section>
+            <section class="workspace">
+                <div class="map-wrap">
+                    <div class="section-head">
+                        <div>
+                            <h2>Estate Exposure Map</h2>
+                            <p>Boundaries and GPS reference locations with selected environmental overlay</p>
+                        </div>
+                        <div class="map-controls">
+                            <label class="switch">
+                                <input type="checkbox" id="boundaries" checked> Boundaries
+                            </label>
+                            <label class="switch">
+                                <input type="checkbox" id="references" checked> GPS points
+                            </label>
+                        </div>
+                    </div>
+                    <div class="layer-panel">
+                        <div class="layer-panel-top">
+                            <strong>Map Layers</strong>
+                        </div>
+
+                        <div class="layer-toggles">
+                            <label class="switch">
+                                <input type="checkbox" id="fire-map" checked>
+                                🔥 Fire Detections
+                            </label>
+
+                            <label class="switch">
+                                <input type="checkbox" id="haze-map" checked>
+                                ☁ Haze PM2.5
+                            </label>
+                        </div>
+                        <div class="layer-panel-top">
+                            <div class="layer-companies-label">
+                                Company Locations
+                            </div>
+
+                            <div class="layer-quick">
+                                <button id="companies-all" type="button">
+                                    Show All
+                                </button>
+                                <button id="companies-none" type="button">
+                                    Hide All
+                                </button>
+                            </div>
+                        </div>
+                        
+
+                        <div class="company-layers" id="company-layers"></div>
+                    </div>
+
+                    <div class="map-surface">
+                        <div id="map" aria-label="Interactive plantation map"></div>
+                        <div id="map-legend" class="legend"></div>
+                    </div>
+                    <p class="map-foot">
+                        Zoom and pan stay in place when switching Fire / Haze. Boundary colors identify companies, not exposure scores.
+                    </p>
+                </div>
+
+                <aside class="ranking">
+                    <div class="section-head rankings-head">
+                        <div>
+                            <h2>Exposure Ranking</h2>
+                            <p>Companies & supply bases</p>
+                        </div>
+                    </div>
+                    
+                    <div class="toggle" role="group" aria-label="Exposure type">
+                        <button id="fire-btn" class="active" type="button">🔥 Fire</button>
+                        <button id="haze-btn" type="button">☁ Haze</button>
+                    </div>
+                    
+                    <div class="filters">
+                        <label>Rank by<select id="group">
+                            <option value="base">Supply Base</option>
+                            <option value="company">Company</option>
+                        </select></label>
+                        
+                        <label>Filter company<select id="company-filter">
+                            <option value="">All companies</option>
+                        </select></label>
+                    </div>
+                    
+                    <div class="ranking-description" id="rank-desc"></div>
+                    <div class="rank-list" id="rank-list">
+                        <div class="empty">Loading ranking data…</div>
+                    </div>
+                </aside>
+            </section>
+            <footer>
+                Source data and analysis methods retained in <code>source_data/</code> and <code>src/</code> · Data timestamps refer to saved snapshots.
+            </footer>
+        </main>
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="app.js"></script>
+    </body>
+</html>
