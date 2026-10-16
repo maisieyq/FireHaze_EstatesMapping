@@ -4,7 +4,8 @@ import pandas as pd
 from scipy.spatial import cKDTree
 
 EARTH_KM = 6371.0088
-FIRE_RADIUS_KM = 10.0
+FIRE_PRIMARY_RADIUS_KM = 5.0
+FIRE_NEARBY_RADIUS_KM = 10.0
 HAZE_MAX_DISTANCE_KM =100.0
 
 
@@ -141,30 +142,40 @@ def calculate_exposure(points, fires, haze):
             )
         }
 
-        # FIRE: satellite detections within 10 km.
-        count = None
-        total_frp = None
+        # FIRE: 5 km primary screening; 10 km secondary alert.
+        count_5km = None
+        count_10km = None
+        total_frp_5km = None
+        total_frp_10km = None
 
         if fire_complete:
-            indices = (
+            indices_5km = (
                 fire_tree.query_ball_point(
-                    position,
-                    km_to_chord(FIRE_RADIUS_KM)
-                )
-                if fire_tree is not None else []
+                    position, km_to_chord(FIRE_PRIMARY_RADIUS_KM)
+                ) if fire_tree is not None else []
+            )
+            indices_10km = (
+                fire_tree.query_ball_point(
+                    position, km_to_chord(FIRE_NEARBY_RADIUS_KM)
+                ) if fire_tree is not None else []
             )
 
-            count = len(indices)
-
-            total_frp = float(
-                fire_data.iloc[indices]["frp"].sum()
-            ) if indices else 0.0
+            count_5km = len(indices_5km)
+            count_10km = len(indices_10km)
+            total_frp_5km = float(
+                fire_data.iloc[indices_5km]["frp"].sum()
+            ) if indices_5km else 0.0
+            total_frp_10km = float(
+                fire_data.iloc[indices_10km]["frp"].sum()
+            ) if indices_10km else 0.0
 
         fire_rows.append({
             **common,
             "fires_inside": None,
-            "fires_within_10km": count,
-            "total_frp_10km": total_frp,
+            "fires_within_5km": count_5km,
+            "fires_within_10km": count_10km,
+            "total_frp_5km": total_frp_5km,
+            "total_frp_10km": total_frp_10km,
             "fire_coverage_status": (
                 "complete" if fire_complete
                 else "incomplete"
@@ -209,8 +220,8 @@ def calculate_exposure(points, fires, haze):
     fire_ranking = pd.DataFrame(fire_rows)
 
     fire_ranking = fire_ranking.sort_values(
-        ["fires_within_10km", "total_frp_10km"],
-        ascending=[False, False],
+        ["fires_within_5km", "total_frp_5km", "fires_within_10km"],
+        ascending=[False, False, False],
         na_position="last"
     ).reset_index(drop=True)
 

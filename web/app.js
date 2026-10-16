@@ -156,7 +156,7 @@ function modeSet(next) {
     $('haze-btn').classList.toggle('active', next === 'haze');
 
     $('rank-desc').textContent = next === 'fire'
-        ? 'Supply bases: inside detections, then within 10 km, then FRP. Company view: sum across bases (descriptive, not deduplicated).'
+        ? 'Primary ranking: fire detections within 5 km. Nearby alert: within 10 km (includes 5 km). Company totals may count the same fire more than once.'
         : 'Modelled PM2.5 (µg/m³). N/A means unavailable or inadequate coverage. Company view uses available base samples.';
 
     // Ranking switch does not change map overlays.
@@ -174,7 +174,9 @@ function aggregated(data, kind) {
                 Company: k,
                 SupplyBase: k,
                 fireInside: 0,
+                firePrimary: 0,
                 fireNearby: 0,
+                frpPrimary: 0,
                 frp: 0,
                 fireValid: 0,
                 pmWeight: 0,
@@ -190,10 +192,13 @@ function aggregated(data, kind) {
         if (
             kind === 'fire' &&
             row.fire_coverage_status === 'complete' &&
+            number(row.fires_within_5km) !== null &&
             number(row.fires_within_10km) !== null
         ) {
             x.fireValid++;
-            x.fireNearby += number(row.fires_within_10km) || 0;
+            x.firePrimary += number(row.fires_within_5km);
+            x.fireNearby += number(row.fires_within_10km);
+            x.frpPrimary += number(row.total_frp_5km) || 0;
             x.frp += number(row.total_frp_10km) || 0;
         }
 
@@ -214,7 +219,9 @@ function aggregated(data, kind) {
         SupplyBase: x.Company,
         bases: x.bases,
         fires_inside: x.fireValid === x.bases ? x.fireInside : null,
+        fires_within_5km: x.fireValid === x.bases ? x.firePrimary : null,
         fires_within_10km: x.fireValid === x.bases ? x.fireNearby : null,
+        total_frp_5km: x.fireValid === x.bases ? x.frpPrimary : null,
         total_frp_10km: x.fireValid === x.bases ? x.frp : null,
         pm2_5: x.pmWeight ? x.pmWeighted / x.pmWeight : null,
         source: 'Company summary from saved supply-base snapshot'
@@ -237,9 +244,9 @@ function renderRanks() {
     rows = [...rows].sort((a, b) => {
         if (kind === 'fire') {
             const key = r => [
-                number(r.fires_inside),
-                number(r.fires_within_10km),
-                number(r.total_frp_10km)
+                number(r.fires_within_5km),
+                number(r.total_frp_5km),
+                number(r.fires_within_10km)
             ];
 
             const x = key(a);
@@ -260,7 +267,7 @@ function renderRanks() {
     $('rank-list').innerHTML = rows.length
         ? rows.map((r, i) => {
             const val = kind === 'fire'
-                ? number(r.fires_within_10km)
+                ? number(r.fires_within_5km)
                 : number(r.pm2_5);
 
             const metric = val === null
@@ -270,14 +277,14 @@ function renderRanks() {
                     : fmt(val, 1) + ' µg/m³';
 
             const detail = kind === 'fire'
-                ? 'Inside: ' +
-                  (number(r.fires_inside) === null
+                ? 'Within 10 km: ' +
+                  (number(r.fires_within_10km) === null
                       ? 'N/A'
-                      : fmt(r.fires_inside)) +
-                  ' · FRP: ' +
-                  (number(r.total_frp_10km) === null
+                      : fmt(r.fires_within_10km)) +
+                  ' hotspots · 5 km FRP: ' +
+                  (number(r.total_frp_5km) === null
                       ? 'N/A'
-                      : fmt(r.total_frp_10km, 1)) +
+                      : fmt(r.total_frp_5km, 1)) +
                   ' MW'
                 : 'Regional modelled PM2.5 · screening only';
 
@@ -591,7 +598,7 @@ async function init() {
             const available = r[k].filter(x =>
                 k === 'fire'
                     ? x.fire_coverage_status === 'complete' &&
-                      number(x.fires_within_10km) !== null
+                      number(x.fires_within_5km) !== null
                     : number(x.pm2_5) !== null &&
                       number(x.coverage_pct) >= 90
             ).length;

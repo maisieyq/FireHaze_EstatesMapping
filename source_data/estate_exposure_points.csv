@@ -1,235 +1,235 @@
 ﻿company,estate_name,country,latitude,longitude,radius_km,coordinate_basis,boundary_id,source_url
-Bumitama Agri,Bengkirai Jaya Estate (PT LGI / PT NAS),Indonesia,-1.5616667,110.5880556,5,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
-Bumitama Agri,Bukit Tunggal Jaya Estate (PT LSM),Indonesia,-1.5291667,110.3825,5,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
-Bumitama Agri,Cemara Jaya Estate (PT GMS),Indonesia,-1.4575,110.2897222,5,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
-Bumitama Agri,Hamparan Jaya Estate (PT LSM),Indonesia,-1.4566667,110.4030556,5,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
-Bumitama Agri,Katari Agro Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0919444,113.0558333,5,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
-Bumitama Agri,Natai Jaya Estate (PT LGI / PT NAS),Indonesia,-1.5102778,110.5811111,5,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
-Bumitama Agri,Pantai Mas Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0597222,113.0558333,5,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
-Bumitama Agri,Plantaran Agro Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0955556,112.9675,5,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
-Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,Malaysia,5.328149,118.45841,5,GROUP_POLYGON_PROXY,MY_GIS_001,https://rspo.org/as-an-organisation/tools/georspo/
-Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,Malaysia,5.37021,118.6299473,5,GROUP_POLYGON_PROXY,MY_GIS_003,https://rspo.org/as-an-organisation/tools/georspo/
-Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,Malaysia,5.416859,118.4269468,5,GROUP_POLYGON_PROXY,MY_GIS_004,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BAHAU ESTATE,Malaysia,2.8032603,102.4453559,5,POLYGON_INTERIOR_PROXY,MY_GIS_005,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BATURONG 1 ESTATE,Malaysia,4.7531904,118.0869608,5,POLYGON_INTERIOR_PROXY,MY_GIS_006,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BATURONG 2 ESTATE,Malaysia,4.7517137,118.0108202,5,POLYGON_INTERIOR_PROXY,MY_GIS_007,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BATURONG 3 ESTATE,Malaysia,4.7724822,118.0330708,5,POLYGON_INTERIOR_PROXY,MY_GIS_008,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BAYOK ESTATE,Malaysia,5.9923648,117.4527856,5,POLYGON_INTERIOR_PROXY,MY_GIS_009,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BERTAM ESTATE,Malaysia,2.2993076,102.2899238,5,POLYGON_INTERIOR_PROXY,MY_GIS_010,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BIMBINGAN 1 ESTATE,Malaysia,5.6154685,117.4286404,5,POLYGON_INTERIOR_PROXY,MY_GIS_011,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BIMBINGAN 2 ESTATE,Malaysia,5.6158637,117.4526611,5,POLYGON_INTERIOR_PROXY,MY_GIS_012,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BUKIT DINDING ESTATE,Malaysia,3.3819985,102.0912066,5,POLYGON_INTERIOR_PROXY,MY_GIS_013,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BUKIT LEELAU ESTATE,Malaysia,3.311388,103.1497878,5,POLYGON_INTERIOR_PROXY,MY_GIS_014,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,BUKIT SERAMPANG ESTATE,Malaysia,2.3293198,102.6870043,5,POLYGON_INTERIOR_PROXY,MY_GIS_015,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,CANTAWAN ESTATE,Malaysia,5.0603602,118.4525267,5,POLYGON_INTERIOR_PROXY,MY_GIS_016,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,GOMALI ESTATE,Malaysia,2.6155031,102.6576906,5,POLYGON_INTERIOR_PROXY,MY_GIS_017,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,JASIN LALANG ESTATE,Malaysia,2.2611125,102.4301835,5,POLYGON_INTERIOR_PROXY,MY_GIS_018,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,KAHANG ESTATE,Malaysia,2.3282615,103.4943529,5,POLYGON_INTERIOR_PROXY,MY_GIS_019,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,KUALA JELEI ESTATE,Malaysia,2.7725168,102.378638,5,POLYGON_INTERIOR_PROXY,MY_GIS_020,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LABUK ESTATE,Malaysia,5.6841348,117.4894363,5,POLYGON_INTERIOR_PROXY,MY_GIS_021,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LAUKIN ESTATE,Malaysia,5.7783923,117.5276282,5,POLYGON_INTERIOR_PROXY,MY_GIS_022,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG 1 ESTATE,Malaysia,5.560145,118.4532585,5,POLYGON_INTERIOR_PROXY,MY_GIS_023,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG 2 ESTATE,Malaysia,5.5095675,118.3767866,5,POLYGON_INTERIOR_PROXY,MY_GIS_024,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG 3 ESTATE,Malaysia,5.5578019,118.3934566,5,POLYGON_INTERIOR_PROXY,MY_GIS_025,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG 4 ESTATE,Malaysia,5.5457343,118.3524714,5,POLYGON_INTERIOR_PROXY,MY_GIS_026,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG 5 ESTATE,Malaysia,5.559738,118.4241742,5,POLYGON_INTERIOR_PROXY,MY_GIS_027,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LEEPANG A ESTATE,Malaysia,2.9838191,103.0180643,5,POLYGON_INTERIOR_PROXY,MY_GIS_028,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LINBAR 1 ESTATE,Malaysia,5.5478035,117.6707177,5,POLYGON_INTERIOR_PROXY,MY_GIS_029,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LINBAR 2 ESTATE,Malaysia,5.5006885,117.6546513,5,POLYGON_INTERIOR_PROXY,MY_GIS_030,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,LUANGMANIS ESTATE,Malaysia,5.7537815,117.6064241,5,POLYGON_INTERIOR_PROXY,MY_GIS_031,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MAMOR ESTATE,Malaysia,2.1676476,103.3222669,5,POLYGON_INTERIOR_PROXY,MY_GIS_032,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MAYVIN 1 ESTATE,Malaysia,5.5858139,117.2271278,5,POLYGON_INTERIOR_PROXY,MY_GIS_033,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MAYVIN 2 ESTATE,Malaysia,5.5601324,117.2277384,5,POLYGON_INTERIOR_PROXY,MY_GIS_034,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MAYVIN 5 ESTATE,Malaysia,5.4717133,117.3249569,5,POLYGON_INTERIOR_PROXY,MY_GIS_035,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MAYVIN 6 ESTATE,Malaysia,5.4843725,117.3699947,5,POLYGON_INTERIOR_PROXY,MY_GIS_036,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MELIAU ESTATE,Malaysia,5.9103886,117.2268552,5,POLYGON_INTERIOR_PROXY,MY_GIS_037,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MORISEM 1 ESTATE,Malaysia,5.4776922,118.3263362,5,POLYGON_INTERIOR_PROXY,MY_GIS_038,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MORISEM 2 ESTATE,Malaysia,5.4370173,118.35068,5,POLYGON_INTERIOR_PROXY,MY_GIS_039,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MORISEM 3 ESTATE,Malaysia,5.496239,118.3469793,5,POLYGON_INTERIOR_PROXY,MY_GIS_040,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MORISEM 4 ESTATE,Malaysia,5.353104,118.3473866,5,POLYGON_INTERIOR_PROXY,MY_GIS_041,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MORISEM 5 ESTATE,Malaysia,5.5120892,118.4082478,5,POLYGON_INTERIOR_PROXY,MY_GIS_042,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,MOYNOD ESTATE,Malaysia,5.7198016,117.5648357,5,POLYGON_INTERIOR_PROXY,MY_GIS_043,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,NANGOH ESTATE,Malaysia,5.9519525,117.2835841,5,POLYGON_INTERIOR_PROXY,MY_GIS_044,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PAMOL BARAT ESTATE,Malaysia,2.1111045,103.3435043,5,POLYGON_INTERIOR_PROXY,MY_GIS_045,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PAMOL TIMUR ESTATE,Malaysia,2.1307106,103.3925765,5,POLYGON_INTERIOR_PROXY,MY_GIS_046,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PAYA LANG ESTATE,Malaysia,2.6146001,102.695154,5,POLYGON_INTERIOR_PROXY,MY_GIS_047,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PERMODALAN 1 ESTATE,Malaysia,5.5167443,118.4493976,5,POLYGON_INTERIOR_PROXY,MY_GIS_048,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PERMODALAN 2 ESTATE,Malaysia,5.5240518,118.4799526,5,POLYGON_INTERIOR_PROXY,MY_GIS_049,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PERMODALAN 3 ESTATE,Malaysia,5.4655853,118.4850154,5,POLYGON_INTERIOR_PROXY,MY_GIS_050,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PERMODALAN 4 ESTATE,Malaysia,5.4641734,118.4547713,5,POLYGON_INTERIOR_PROXY,MY_GIS_051,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,PUKIN ESTATE,Malaysia,2.6881316,102.9040165,5,POLYGON_INTERIOR_PROXY,MY_GIS_052,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,REGENT ESTATE,Malaysia,2.5110297,102.4043957,5,POLYGON_INTERIOR_PROXY,MY_GIS_053,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,RUNGUS ESTATE,Malaysia,6.0012395,117.3420673,5,POLYGON_INTERIOR_PROXY,MY_GIS_054,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SAGIL ESTATE,Malaysia,2.3288688,102.6274431,5,POLYGON_INTERIOR_PROXY,MY_GIS_055,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SAKILAN ESTATE,Malaysia,5.8374293,117.8419127,5,POLYGON_INTERIOR_PROXY,MY_GIS_056,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SEGAMAT ESTATE,Malaysia,2.4883128,102.8984775,5,POLYGON_INTERIOR_PROXY,MY_GIS_057,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SHAHZAN IOI 1 ESTATE,Malaysia,2.8046397,102.8423485,5,POLYGON_INTERIOR_PROXY,MY_GIS_058,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SHAHZAN IOI 2 ESTATE,Malaysia,2.8145435,102.8683105,5,POLYGON_INTERIOR_PROXY,MY_GIS_059,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SUGUT ESTATE,Malaysia,6.2186014,117.4858848,5,POLYGON_INTERIOR_PROXY,MY_GIS_060,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SUNGAI SAPI ESTATE,Malaysia,5.8039849,117.5035933,5,POLYGON_INTERIOR_PROXY,MY_GIS_061,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SWEE LAM ESTATE,Malaysia,1.6811119,103.6599035,5,POLYGON_INTERIOR_PROXY,MY_GIS_062,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 1 ESTATE,Malaysia,5.3356088,117.8239162,5,POLYGON_INTERIOR_PROXY,MY_GIS_063,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 2 ESTATE,Malaysia,5.3050557,117.7812435,5,POLYGON_INTERIOR_PROXY,MY_GIS_064,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 3 ESTATE,Malaysia,5.3480545,117.7815144,5,POLYGON_INTERIOR_PROXY,MY_GIS_065,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 4 ESTATE,Malaysia,5.3887259,117.7528472,5,POLYGON_INTERIOR_PROXY,MY_GIS_066,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 5 ESTATE,Malaysia,5.3485813,117.7273677,5,POLYGON_INTERIOR_PROXY,MY_GIS_067,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 6 ESTATE,Malaysia,5.3074605,117.7568251,5,POLYGON_INTERIOR_PROXY,MY_GIS_068,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 7 ESTATE,Malaysia,5.2975178,117.6723131,5,POLYGON_INTERIOR_PROXY,MY_GIS_069,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 8 ESTATE,Malaysia,5.2997705,117.7114126,5,POLYGON_INTERIOR_PROXY,MY_GIS_070,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,SYARIMO 9 ESTATE,Malaysia,5.2589928,117.7099514,5,POLYGON_INTERIOR_PROXY,MY_GIS_071,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,TAMBANG ESTATE,Malaysia,2.6461312,102.7044181,5,POLYGON_INTERIOR_PROXY,MY_GIS_072,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,TANGKULAP ESTATE,Malaysia,5.5010388,117.258166,5,POLYGON_INTERIOR_PROXY,MY_GIS_073,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,TAS HALUSAH ESTATE,Malaysia,5.2127952,118.2413973,5,POLYGON_INTERIOR_PROXY,MY_GIS_074,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,TERUSAN BARU ESTATE,Malaysia,5.7860232,117.600745,5,POLYGON_INTERIOR_PROXY,MY_GIS_075,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,TINDAKON ESTATE,Malaysia,5.9746192,117.3662463,5,POLYGON_INTERIOR_PROXY,MY_GIS_076,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,ULU ESTATE,Malaysia,6.0040729,117.3949533,5,POLYGON_INTERIOR_PROXY,MY_GIS_077,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 1 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.416064,118.5173931,5,POLYGON_INTERIOR_PROXY,MY_GIS_078,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 2 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4570258,118.5250786,5,POLYGON_INTERIOR_PROXY,MY_GIS_079,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 3 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4595725,118.5633797,5,POLYGON_INTERIOR_PROXY,MY_GIS_080,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 4 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4004575,118.5687826,5,POLYGON_INTERIOR_PROXY,MY_GIS_081,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 5 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.378243,118.5363856,5,POLYGON_INTERIOR_PROXY,MY_GIS_082,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNICO 6 ESTATE,Malaysia,5.1329515,118.1715703,5,POLYGON_INTERIOR_PROXY,MY_GIS_083,https://rspo.org/as-an-organisation/tools/georspo/
-IOI Corporation,UNIJAYA ESTATE,Malaysia,1.9330557,103.276309,5,POLYGON_INTERIOR_PROXY,MY_GIS_084,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BAGAN DATOH ESTATE,Malaysia,4.006759,100.8412354,5,POLYGON_INTERIOR_PROXY,MY_GIS_085,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BAYU ESTATE,Malaysia,3.509454,113.3777718,5,POLYGON_INTERIOR_PROXY,MY_GIS_086,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BELIAN ESTATE (SD GUTHRIE),Malaysia,3.3661045,113.5660071,5,POLYGON_INTERIOR_PROXY,MY_GIS_087,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BIKAM ESTATE,Malaysia,3.944204,101.3160892,5,POLYGON_INTERIOR_PROXY,MY_GIS_088,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BINUANG ESTATE,Malaysia,4.6939875,118.0579794,5,POLYGON_INTERIOR_PROXY,MY_GIS_089,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT ASAHAN ESTATE,Malaysia,2.4174535,102.547244,5,POLYGON_INTERIOR_PROXY,MY_GIS_090,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT BADAK ESTATE,Malaysia,1.8760945,103.5109431,5,POLYGON_INTERIOR_PROXY,MY_GIS_091,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT BENUT ESTATE,Malaysia,1.910729,103.3264825,5,POLYGON_INTERIOR_PROXY,MY_GIS_092,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT CHERAKA ESTATE,Malaysia,3.2551525,101.3303847,5,POLYGON_INTERIOR_PROXY,MY_GIS_093,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT HIJAU ESTATE,Malaysia,5.558281,100.7585081,5,POLYGON_INTERIOR_PROXY,MY_GIS_094,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT KERAYONG ESTATE,Malaysia,3.118475,101.3796407,5,POLYGON_INTERIOR_PROXY,MY_GIS_095,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT PALOH ESTATE,Malaysia,2.150548,103.1838458,5,POLYGON_INTERIOR_PROXY,MY_GIS_096,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT PELANDOK ESTATE,Malaysia,2.690788,101.7650483,5,POLYGON_INTERIOR_PROXY,MY_GIS_097,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT PILAH ESTATE,Malaysia,2.764113,102.528971,5,POLYGON_INTERIOR_PROXY,MY_GIS_098,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT PUTERI ESTATE,Malaysia,4.191957,101.8648772,5,POLYGON_INTERIOR_PROXY,MY_GIS_099,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT SELARONG ESTATE,Malaysia,5.47309,100.6036237,5,POLYGON_INTERIOR_PROXY,MY_GIS_100,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,BUKIT TALANG ESTATE,Malaysia,3.418429,101.274084,5,POLYGON_INTERIOR_PROXY,MY_GIS_101,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CENAS ESTATE,Malaysia,1.9277611,103.5705574,5,POLYGON_INTERIOR_PROXY,MY_GIS_102,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CEP NIYOR ESTATE,Malaysia,2.0835025,103.2318521,5,POLYGON_INTERIOR_PROXY,MY_GIS_103,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CEP RENGAM ESTATE,Malaysia,1.8626778,103.3815086,5,POLYGON_INTERIOR_PROXY,MY_GIS_104,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CHAAH ESTATE,Malaysia,2.145291,102.9668931,5,POLYGON_INTERIOR_PROXY,MY_GIS_105,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CHENOR ESTATE,Malaysia,3.7858655,102.6144412,5,POLYGON_INTERIOR_PROXY,MY_GIS_106,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CHERSONESE ESTATE,Malaysia,4.9859325,100.4653372,5,POLYGON_INTERIOR_PROXY,MY_GIS_107,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,CLUNY ESTATE,Malaysia,3.860586,101.4319012,5,POLYGON_INTERIOR_PROXY,MY_GIS_108,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,DAMAI ESTATE,Malaysia,3.4439035,113.4053674,5,POLYGON_INTERIOR_PROXY,MY_GIS_109,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,DERAWAN ESTATE,Malaysia,3.404589,113.3598686,5,POLYGON_INTERIOR_PROXY,MY_GIS_110,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,DIAMOND JUBILEE ESTATE,Malaysia,2.3565795,102.459764,5,POLYGON_INTERIOR_PROXY,MY_GIS_111,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,DULANG ESTATE,Malaysia,3.4634055,113.685748,5,POLYGON_INTERIOR_PROXY,MY_GIS_112,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,DUSUN DURIAN ESTATE,Malaysia,2.7982245,101.4590725,5,POLYGON_INTERIOR_PROXY,MY_GIS_113,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,EAST ESTATE,Malaysia,2.8591375,101.3898812,5,POLYGON_INTERIOR_PROXY,MY_GIS_114,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,ELPHIL ESTATE,Malaysia,4.841201,101.0974255,5,POLYGON_INTERIOR_PROXY,MY_GIS_115,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,FLEMINGTON ESTATE,Malaysia,3.936176,100.8586973,5,POLYGON_INTERIOR_PROXY,MY_GIS_116,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,GIRAM ESTATE,Malaysia,4.603315,118.2232437,5,POLYGON_INTERIOR_PROXY,MY_GIS_117,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,GUNUNG MAS ESTATE,Malaysia,2.238645,103.1132545,5,POLYGON_INTERIOR_PROXY,MY_GIS_118,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,HOLYROOD ESTATE,Malaysia,5.129133,100.7289538,5,POLYGON_INTERIOR_PROXY,MY_GIS_119,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,IMAM ESTATE,Malaysia,4.364164,118.0078356,5,POLYGON_INTERIOR_PROXY,MY_GIS_120,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,JABOR ESTATE,Malaysia,3.9334575,103.3132425,5,POLYGON_INTERIOR_PROXY,MY_GIS_121,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,JELETA BUMI ESTATE,Malaysia,4.6941485,117.9693139,5,POLYGON_INTERIOR_PROXY,MY_GIS_122,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,JENTAYU ESTATE,Malaysia,5.7781045,100.5677467,5,POLYGON_INTERIOR_PROXY,MY_GIS_123,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KALUMPONG ESTATE,Malaysia,4.9602733,100.5967583,5,POLYGON_INTERIOR_PROXY,MY_GIS_124,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KAMUNING ESTATE,Malaysia,4.852758,101.0211762,5,POLYGON_INTERIOR_PROXY,MY_GIS_125,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KELIDA ESTATE,Malaysia,3.36262,113.6276096,5,POLYGON_INTERIOR_PROXY,MY_GIS_126,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KEMPAS ESTATE,Malaysia,2.236438,102.4311942,5,POLYGON_INTERIOR_PROXY,MY_GIS_127,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KEMPAS KLEBANG ESTATE,Malaysia,2.234148,103.1697721,5,POLYGON_INTERIOR_PROXY,MY_GIS_128,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),Malaysia,2.4901675,102.3752646,5,POLYGON_INTERIOR_PROXY,MY_GIS_129,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KERDAU ESTATE,Malaysia,3.5726975,102.2947525,5,POLYGON_INTERIOR_PROXY,MY_GIS_130,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KINTA KELLAS ESTATE,Malaysia,4.4604695,101.0859363,5,POLYGON_INTERIOR_PROXY,MY_GIS_131,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KOK FOH ESTATE,Malaysia,2.83756,102.5197691,5,POLYGON_INTERIOR_PROXY,MY_GIS_132,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,KULAI ESTATE,Malaysia,1.6419955,103.5210559,5,POLYGON_INTERIOR_PROXY,MY_GIS_133,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LABU ESTATE,Malaysia,2.7225445,101.849038,5,POLYGON_INTERIOR_PROXY,MY_GIS_134,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG BRADWALL,Malaysia,2.5480015,101.9165195,5,POLYGON_INTERIOR_PROXY,MY_GIS_135,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG CHARQUEST,Malaysia,3.486789,113.5959711,5,POLYGON_INTERIOR_PROXY,MY_GIS_136,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG PD LUKUT,Malaysia,2.544082,101.8333132,5,POLYGON_INTERIOR_PROXY,MY_GIS_137,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG SALAK,Malaysia,2.5956435,101.8956677,5,POLYGON_INTERIOR_PROXY,MY_GIS_138,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG SENGKANG,Malaysia,2.4561915,101.9678012,5,POLYGON_INTERIOR_PROXY,MY_GIS_139,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG SUA BETONG,Malaysia,2.516277,101.8994239,5,POLYGON_INTERIOR_PROXY,MY_GIS_140,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG SUNGEI BAHRU,Malaysia,2.4924795,102.0844198,5,POLYGON_INTERIOR_PROXY,MY_GIS_141,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LADANG TAMPIN LINGGI,Malaysia,2.5279995,102.001357,5,POLYGON_INTERIOR_PROXY,MY_GIS_142,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LAMBAK ESTATE,Malaysia,1.9580005,103.3071397,5,POLYGON_INTERIOR_PROXY,MY_GIS_143,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LANADRON ESTATE,Malaysia,2.2154575,102.7596765,5,POLYGON_INTERIOR_PROXY,MY_GIS_144,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LAVANG ESTATE,Malaysia,3.4173655,113.5917434,5,POLYGON_INTERIOR_PROXY,MY_GIS_145,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,LAYANG ESTATE,Malaysia,1.7606045,103.4468937,5,POLYGON_INTERIOR_PROXY,MY_GIS_146,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,MELALAP ESTATE,Malaysia,5.225622,115.9974851,5,POLYGON_INTERIOR_PROXY,MY_GIS_147,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,MENTAKAB ESTATE,Malaysia,3.520208,102.2664634,5,POLYGON_INTERIOR_PROXY,MY_GIS_148,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,MEROTAI ESTATE,Malaysia,4.3933965,117.8140445,5,POLYGON_INTERIOR_PROXY,MY_GIS_149,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,MOSTYN ESTATE,Malaysia,4.6683475,118.1649323,5,POLYGON_INTERIOR_PROXY,MY_GIS_150,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,MUAR RIVER ESTATE,Malaysia,2.5847015,102.7375461,5,POLYGON_INTERIOR_PROXY,MY_GIS_151,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,NORTH LABIS ESTATE,Malaysia,2.3822465,103.0487186,5,POLYGON_INTERIOR_PROXY,MY_GIS_152,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PADANG BULUH ESTATE,Malaysia,5.5804661,100.5651955,5,POLYGON_INTERIOR_PROXY,MY_GIS_153,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PAGOH ESTATE,Malaysia,2.069514,102.7006769,5,POLYGON_INTERIOR_PROXY,MY_GIS_154,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PAROH ESTATE,Malaysia,3.464425,113.7373175,5,POLYGON_INTERIOR_PROXY,MY_GIS_155,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PEKAKA ESTATE,Malaysia,3.4834955,113.6422427,5,POLYGON_INTERIOR_PROXY,MY_GIS_156,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PEKAN ESTATE,Malaysia,1.8306225,103.600569,5,POLYGON_INTERIOR_PROXY,MY_GIS_157,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PENGKALAN BUKIT ESTATE,Malaysia,2.137823,102.7917607,5,POLYGON_INTERIOR_PROXY,MY_GIS_158,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,PERTANG ESTATE,Malaysia,2.9808465,102.2439977,5,POLYGON_INTERIOR_PROXY,MY_GIS_159,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,RAJAWALI ESTATE,Malaysia,3.363156,113.4037194,5,POLYGON_INTERIOR_PROXY,MY_GIS_160,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,RASAN ESTATE,Malaysia,3.409972,113.6425046,5,POLYGON_INTERIOR_PROXY,MY_GIS_161,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,RUAI ESTATE,Malaysia,3.442412,113.6377853,5,POLYGON_INTERIOR_PROXY,MY_GIS_162,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SABAK BERNAM ESTATE,Malaysia,3.7571385,101.0071728,5,POLYGON_INTERIOR_PROXY,MY_GIS_163,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SAHUA ESTATE,Malaysia,3.4624145,113.3634966,5,POLYGON_INTERIOR_PROXY,MY_GIS_164,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SAMUDERA ESTATE,Malaysia,3.5031975,113.4134615,5,POLYGON_INTERIOR_PROXY,MY_GIS_165,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SAPONG ESTATE,Malaysia,5.0510395,115.9300945,5,POLYGON_INTERIOR_PROXY,MY_GIS_166,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SEGALIUD ESTATE,Malaysia,5.712161,117.752599,5,POLYGON_INTERIOR_PROXY,MY_GIS_167,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SEMARAK ESTATE,Malaysia,3.3568505,113.3679888,5,POLYGON_INTERIOR_PROXY,MY_GIS_168,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SEMBRONG ESTATE,Malaysia,1.876973,103.460785,5,POLYGON_INTERIOR_PROXY,MY_GIS_169,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SENTOSA ESTATE,Malaysia,5.5970905,118.1791143,5,POLYGON_INTERIOR_PROXY,MY_GIS_170,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SEPANG ESTATE,Malaysia,4.014176,100.9674865,5,POLYGON_INTERIOR_PROXY,MY_GIS_171,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SERI INTAN ESTATE,Malaysia,3.961705,100.9991435,5,POLYGON_INTERIOR_PROXY,MY_GIS_172,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SERI PULAI ESTATE,Malaysia,1.616977,103.4909725,5,POLYGON_INTERIOR_PROXY,MY_GIS_173,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SERKAM ESTATE,Malaysia,2.3246825,102.4210508,5,POLYGON_INTERIOR_PROXY,MY_GIS_174,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SG MAI ESTATE,Malaysia,3.8260845,102.337201,5,POLYGON_INTERIOR_PROXY,MY_GIS_175,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SG. SABALING ESTATE,Malaysia,2.843229,102.4746317,5,POLYGON_INTERIOR_PROXY,MY_GIS_176,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SG. SENARUT ESTATE,Malaysia,2.552592,102.6966151,5,POLYGON_INTERIOR_PROXY,MY_GIS_177,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SG. SIMPANG KIRI ESTATE,Malaysia,2.1185735,102.9754745,5,POLYGON_INTERIOR_PROXY,MY_GIS_178,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SOGOMANA ESTATE,Malaysia,4.4050748,100.6960661,5,POLYGON_INTERIOR_PROXY,MY_GIS_179,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SOMME ESTATE,Malaysia,5.30117,100.5883444,5,POLYGON_INTERIOR_PROXY,MY_GIS_180,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,ST. HELIER ESTATE,Malaysia,2.807013,102.3004089,5,POLYGON_INTERIOR_PROXY,MY_GIS_181,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SUNGAI BULOH ESTATE,Malaysia,3.3323325,101.3305779,5,POLYGON_INTERIOR_PROXY,MY_GIS_182,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SUNGAI DINGIN ESTATE,Malaysia,5.372802,100.7127859,5,POLYGON_INTERIOR_PROXY,MY_GIS_183,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SUNGAI SAMAK ESTATE,Malaysia,3.770793,101.1439685,5,POLYGON_INTERIOR_PROXY,MY_GIS_184,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SUNGAI WANGI ESTATE,Malaysia,4.2350016,100.7208013,5,POLYGON_INTERIOR_PROXY,MY_GIS_185,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,SUNGANG ESTATE,Malaysia,4.6587695,118.1234546,5,POLYGON_INTERIOR_PROXY,MY_GIS_186,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TABLE ESTATE,Malaysia,4.367402,117.8685849,5,POLYGON_INTERIOR_PROXY,MY_GIS_187,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TAKAU ESTATE,Malaysia,3.382167,113.3360952,5,POLYGON_INTERIOR_PROXY,MY_GIS_188,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TALI AYER ESTATE,Malaysia,5.0763525,100.5643906,5,POLYGON_INTERIOR_PROXY,MY_GIS_189,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TANAH MERAH ESTATE,Malaysia,2.635062,101.8186573,5,POLYGON_INTERIOR_PROXY,MY_GIS_190,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TANGKAH ESTATE,Malaysia,2.272194,102.5860858,5,POLYGON_INTERIOR_PROXY,MY_GIS_191,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TENNAMARAM ESTATE,Malaysia,3.407271,101.3987293,5,POLYGON_INTERIOR_PROXY,MY_GIS_192,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TIGER ESTATE,Malaysia,4.4086955,117.8425259,5,POLYGON_INTERIOR_PROXY,MY_GIS_193,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TIGOWIS ESTATE,Malaysia,5.744093,118.228058,5,POLYGON_INTERIOR_PROXY,MY_GIS_194,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TINGKAYU ESTATE,Malaysia,4.712612,118.0787165,5,POLYGON_INTERIOR_PROXY,MY_GIS_195,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TUN DR ISMAIL ESTATE,Malaysia,1.8216755,103.3764517,5,POLYGON_INTERIOR_PROXY,MY_GIS_196,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TUN TAN SIEW SIN ESTATE,Malaysia,5.6522305,118.192572,5,POLYGON_INTERIOR_PROXY,MY_GIS_197,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,TUNKU ESTATE,Malaysia,5.6974105,118.2057119,5,POLYGON_INTERIOR_PROXY,MY_GIS_198,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,ULU REMIS ESTATE,Malaysia,1.8461115,103.4877954,5,POLYGON_INTERIOR_PROXY,MY_GIS_199,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,WELCH ESTATE,Malaysia,2.452697,102.646662,5,POLYGON_INTERIOR_PROXY,MY_GIS_200,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,WEST ESTATE,Malaysia,2.864247,101.3363965,5,POLYGON_INTERIOR_PROXY,MY_GIS_201,https://rspo.org/as-an-organisation/tools/georspo/
-SD Guthrie,YONG PENG ESTATE,Malaysia,2.0760685,103.1109714,5,POLYGON_INTERIOR_PROXY,MY_GIS_202,https://rspo.org/as-an-organisation/tools/georspo/
-United Plantations Berhad,CHANGKAT MENTRI ESTATE,Malaysia,3.745005,101.235793,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_203,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,JENDARATA ESTATE,Malaysia,3.9001667,100.9773611,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_204,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,LADANG SUNGEI ERONG,Malaysia,3.7939425,101.2060126,5,POLYGON_INTERIOR_PROXY,MY_GIS_205,https://rspo.org/as-an-organisation/tools/georspo/
-United Plantations Berhad,LIMA BLAS ESTATE,Malaysia,3.79265,101.35115,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_206,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,Lada Estate (PT Surya Sawit Sejati),Indonesia,-2.4930556,111.7230556,5,RSPO_CERTIFICATE_GPS,,https://mutucertification.com/wp-content/uploads/2023/10/RSPO-Recertification-Summary-Report-of-Lada-POM-PT-Surya-Sawit-Sejati.pdf
-United Plantations Berhad,Runtu Estate (PT Surya Sawit Sejati),Indonesia,-2.3752778,111.6894444,5,RSPO_CERTIFICATE_GPS,,https://mutucertification.com/wp-content/uploads/2023/10/RSPO-Recertification-Summary-Report-of-Lada-POM-PT-Surya-Sawit-Sejati.pdf
-United Plantations Berhad,SERI PELANGI ESTATE,Malaysia,3.9936944,101.1596944,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_207,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,SUNGAI CHAWANG ESTATE,Malaysia,3.8472575,101.2132837,5,POLYGON_INTERIOR_PROXY,MY_GIS_208,https://rspo.org/as-an-organisation/tools/georspo/
-United Plantations Berhad,TANARATA ESTATE,Malaysia,3.97,101.0968889,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_209,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,UIE ESTATE,Malaysia,4.4478111,100.7206889,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_210,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,ULU BASIR ESTATE,Malaysia,3.724305,101.253981,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_211,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-United Plantations Berhad,ULU BERNAM ESTATE,Malaysia,3.748,101.145622,5,OFFICIAL_MSPO_SITE_GPS,MY_GIS_212,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
-Sarawak Plantation Berhad,Mukah 1 Estate,Malaysia,2.6250757,112.328246,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Matadeng Estate,Malaysia,2.88820456,112.3925522,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Bakau Estate,Malaysia,2.78983152,112.4566635,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Bukut Estate,Malaysia,2.69305069,112.4866078,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Mukah 3 Estate,Malaysia,2.71661792,112.382426,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Melugu Estate,Malaysia,1.120389,111.364639,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Tulai Estate,Malaysia,2.1588,112.7846,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Ladang 3 Estate,Malaysia,3.86,113.8662,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Subis Estate,Malaysia,3.82009,113.878239,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Sawai Estate,Malaysia,3.5412,113.7177,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Peninjau Estate,Malaysia,4.036921,114.00092,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Pinji Mewah Estate,Malaysia,4.050864,114.269458,5,MSPO GPS,,https://nioshcert.com.my/mspo/
-Sarawak Plantation Berhad,Karabungan Estate,Malaysia,3.8797,113.8404,5,MSPO GPS,,https://nioshcert.com.my/mspo/
+Bumitama Agri,Bengkirai Jaya Estate (PT LGI / PT NAS),Indonesia,-1.5616667,110.5880556,10,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
+Bumitama Agri,Bukit Tunggal Jaya Estate (PT LSM),Indonesia,-1.5291667,110.3825,10,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
+Bumitama Agri,Cemara Jaya Estate (PT GMS),Indonesia,-1.4575,110.2897222,10,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
+Bumitama Agri,Hamparan Jaya Estate (PT LSM),Indonesia,-1.4566667,110.4030556,10,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
+Bumitama Agri,Katari Agro Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0919444,113.0558333,10,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
+Bumitama Agri,Natai Jaya Estate (PT LGI / PT NAS),Indonesia,-1.5102778,110.5811111,10,RSPO_HISTORICAL_GPS,,https://rspo.org/wp-content/uploads/Public-Notification-for-PT.-Ladang-Sawit-Mas-Bukit-Tunggal-Jaya-Mill_Recertification-Assessment_English-Final.pdf
+Bumitama Agri,Pantai Mas Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0597222,113.0558333,10,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
+Bumitama Agri,Plantaran Agro Estate (PT Windu Nabatindo Lestari),Indonesia,-2.0955556,112.9675,10,RSPO_HISTORICAL_GPS,,https://www.rspo.org/wp-content/uploads/Notification_of_Katari_Agro_POM_PT_Windu_Nabatindo_Lestari_-_Bumitama_Agri_Ltd_(ENG)(IC).pdf
+Hap Seng Plantations,BUKIT MAS ESTATE;SUNGAI SEGAMA ESTATE,Malaysia,5.328149,118.45841,10,GROUP_POLYGON_PROXY,MY_GIS_001,https://rspo.org/as-an-organisation/tools/georspo/
+Hap Seng Plantations,LITANG ESTATE;TAGAS ESTATE;TOMANGGONG ESTATE,Malaysia,5.37021,118.6299473,10,GROUP_POLYGON_PROXY,MY_GIS_003,https://rspo.org/as-an-organisation/tools/georspo/
+Hap Seng Plantations,LOKAN ESTATE;LUTONG ESTATE;LUNGMANIS ESTATE;BATANGAN ESTATE;KAPIS ESTATE,Malaysia,5.416859,118.4269468,10,GROUP_POLYGON_PROXY,MY_GIS_004,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BAHAU ESTATE,Malaysia,2.8032603,102.4453559,10,POLYGON_INTERIOR_PROXY,MY_GIS_005,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BATURONG 1 ESTATE,Malaysia,4.7531904,118.0869608,10,POLYGON_INTERIOR_PROXY,MY_GIS_006,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BATURONG 2 ESTATE,Malaysia,4.7517137,118.0108202,10,POLYGON_INTERIOR_PROXY,MY_GIS_007,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BATURONG 3 ESTATE,Malaysia,4.7724822,118.0330708,10,POLYGON_INTERIOR_PROXY,MY_GIS_008,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BAYOK ESTATE,Malaysia,5.9923648,117.4527856,10,POLYGON_INTERIOR_PROXY,MY_GIS_009,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BERTAM ESTATE,Malaysia,2.2993076,102.2899238,10,POLYGON_INTERIOR_PROXY,MY_GIS_010,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BIMBINGAN 1 ESTATE,Malaysia,5.6154685,117.4286404,10,POLYGON_INTERIOR_PROXY,MY_GIS_011,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BIMBINGAN 2 ESTATE,Malaysia,5.6158637,117.4526611,10,POLYGON_INTERIOR_PROXY,MY_GIS_012,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BUKIT DINDING ESTATE,Malaysia,3.3819985,102.0912066,10,POLYGON_INTERIOR_PROXY,MY_GIS_013,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BUKIT LEELAU ESTATE,Malaysia,3.311388,103.1497878,10,POLYGON_INTERIOR_PROXY,MY_GIS_014,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,BUKIT SERAMPANG ESTATE,Malaysia,2.3293198,102.6870043,10,POLYGON_INTERIOR_PROXY,MY_GIS_015,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,CANTAWAN ESTATE,Malaysia,5.0603602,118.4525267,10,POLYGON_INTERIOR_PROXY,MY_GIS_016,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,GOMALI ESTATE,Malaysia,2.6155031,102.6576906,10,POLYGON_INTERIOR_PROXY,MY_GIS_017,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,JASIN LALANG ESTATE,Malaysia,2.2611125,102.4301835,10,POLYGON_INTERIOR_PROXY,MY_GIS_018,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,KAHANG ESTATE,Malaysia,2.3282615,103.4943529,10,POLYGON_INTERIOR_PROXY,MY_GIS_019,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,KUALA JELEI ESTATE,Malaysia,2.7725168,102.378638,10,POLYGON_INTERIOR_PROXY,MY_GIS_020,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LABUK ESTATE,Malaysia,5.6841348,117.4894363,10,POLYGON_INTERIOR_PROXY,MY_GIS_021,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LAUKIN ESTATE,Malaysia,5.7783923,117.5276282,10,POLYGON_INTERIOR_PROXY,MY_GIS_022,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG 1 ESTATE,Malaysia,5.560145,118.4532585,10,POLYGON_INTERIOR_PROXY,MY_GIS_023,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG 2 ESTATE,Malaysia,5.5095675,118.3767866,10,POLYGON_INTERIOR_PROXY,MY_GIS_024,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG 3 ESTATE,Malaysia,5.5578019,118.3934566,10,POLYGON_INTERIOR_PROXY,MY_GIS_025,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG 4 ESTATE,Malaysia,5.5457343,118.3524714,10,POLYGON_INTERIOR_PROXY,MY_GIS_026,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG 5 ESTATE,Malaysia,5.559738,118.4241742,10,POLYGON_INTERIOR_PROXY,MY_GIS_027,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LEEPANG A ESTATE,Malaysia,2.9838191,103.0180643,10,POLYGON_INTERIOR_PROXY,MY_GIS_028,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LINBAR 1 ESTATE,Malaysia,5.5478035,117.6707177,10,POLYGON_INTERIOR_PROXY,MY_GIS_029,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LINBAR 2 ESTATE,Malaysia,5.5006885,117.6546513,10,POLYGON_INTERIOR_PROXY,MY_GIS_030,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,LUANGMANIS ESTATE,Malaysia,5.7537815,117.6064241,10,POLYGON_INTERIOR_PROXY,MY_GIS_031,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MAMOR ESTATE,Malaysia,2.1676476,103.3222669,10,POLYGON_INTERIOR_PROXY,MY_GIS_032,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MAYVIN 1 ESTATE,Malaysia,5.5858139,117.2271278,10,POLYGON_INTERIOR_PROXY,MY_GIS_033,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MAYVIN 2 ESTATE,Malaysia,5.5601324,117.2277384,10,POLYGON_INTERIOR_PROXY,MY_GIS_034,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MAYVIN 5 ESTATE,Malaysia,5.4717133,117.3249569,10,POLYGON_INTERIOR_PROXY,MY_GIS_035,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MAYVIN 6 ESTATE,Malaysia,5.4843725,117.3699947,10,POLYGON_INTERIOR_PROXY,MY_GIS_036,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MELIAU ESTATE,Malaysia,5.9103886,117.2268552,10,POLYGON_INTERIOR_PROXY,MY_GIS_037,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MORISEM 1 ESTATE,Malaysia,5.4776922,118.3263362,10,POLYGON_INTERIOR_PROXY,MY_GIS_038,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MORISEM 2 ESTATE,Malaysia,5.4370173,118.35068,10,POLYGON_INTERIOR_PROXY,MY_GIS_039,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MORISEM 3 ESTATE,Malaysia,5.496239,118.3469793,10,POLYGON_INTERIOR_PROXY,MY_GIS_040,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MORISEM 4 ESTATE,Malaysia,5.353104,118.3473866,10,POLYGON_INTERIOR_PROXY,MY_GIS_041,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MORISEM 5 ESTATE,Malaysia,5.5120892,118.4082478,10,POLYGON_INTERIOR_PROXY,MY_GIS_042,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,MOYNOD ESTATE,Malaysia,5.7198016,117.5648357,10,POLYGON_INTERIOR_PROXY,MY_GIS_043,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,NANGOH ESTATE,Malaysia,5.9519525,117.2835841,10,POLYGON_INTERIOR_PROXY,MY_GIS_044,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PAMOL BARAT ESTATE,Malaysia,2.1111045,103.3435043,10,POLYGON_INTERIOR_PROXY,MY_GIS_045,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PAMOL TIMUR ESTATE,Malaysia,2.1307106,103.3925765,10,POLYGON_INTERIOR_PROXY,MY_GIS_046,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PAYA LANG ESTATE,Malaysia,2.6146001,102.695154,10,POLYGON_INTERIOR_PROXY,MY_GIS_047,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PERMODALAN 1 ESTATE,Malaysia,5.5167443,118.4493976,10,POLYGON_INTERIOR_PROXY,MY_GIS_048,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PERMODALAN 2 ESTATE,Malaysia,5.5240518,118.4799526,10,POLYGON_INTERIOR_PROXY,MY_GIS_049,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PERMODALAN 3 ESTATE,Malaysia,5.4655853,118.4850154,10,POLYGON_INTERIOR_PROXY,MY_GIS_050,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PERMODALAN 4 ESTATE,Malaysia,5.4641734,118.4547713,10,POLYGON_INTERIOR_PROXY,MY_GIS_051,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,PUKIN ESTATE,Malaysia,2.6881316,102.9040165,10,POLYGON_INTERIOR_PROXY,MY_GIS_052,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,REGENT ESTATE,Malaysia,2.5110297,102.4043957,10,POLYGON_INTERIOR_PROXY,MY_GIS_053,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,RUNGUS ESTATE,Malaysia,6.0012395,117.3420673,10,POLYGON_INTERIOR_PROXY,MY_GIS_054,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SAGIL ESTATE,Malaysia,2.3288688,102.6274431,10,POLYGON_INTERIOR_PROXY,MY_GIS_055,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SAKILAN ESTATE,Malaysia,5.8374293,117.8419127,10,POLYGON_INTERIOR_PROXY,MY_GIS_056,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SEGAMAT ESTATE,Malaysia,2.4883128,102.8984775,10,POLYGON_INTERIOR_PROXY,MY_GIS_057,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SHAHZAN IOI 1 ESTATE,Malaysia,2.8046397,102.8423485,10,POLYGON_INTERIOR_PROXY,MY_GIS_058,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SHAHZAN IOI 2 ESTATE,Malaysia,2.8145435,102.8683105,10,POLYGON_INTERIOR_PROXY,MY_GIS_059,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SUGUT ESTATE,Malaysia,6.2186014,117.4858848,10,POLYGON_INTERIOR_PROXY,MY_GIS_060,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SUNGAI SAPI ESTATE,Malaysia,5.8039849,117.5035933,10,POLYGON_INTERIOR_PROXY,MY_GIS_061,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SWEE LAM ESTATE,Malaysia,1.6811119,103.6599035,10,POLYGON_INTERIOR_PROXY,MY_GIS_062,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 1 ESTATE,Malaysia,5.3356088,117.8239162,10,POLYGON_INTERIOR_PROXY,MY_GIS_063,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 2 ESTATE,Malaysia,5.3050557,117.7812435,10,POLYGON_INTERIOR_PROXY,MY_GIS_064,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 3 ESTATE,Malaysia,5.3480545,117.7815144,10,POLYGON_INTERIOR_PROXY,MY_GIS_065,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 4 ESTATE,Malaysia,5.3887259,117.7528472,10,POLYGON_INTERIOR_PROXY,MY_GIS_066,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 5 ESTATE,Malaysia,5.3485813,117.7273677,10,POLYGON_INTERIOR_PROXY,MY_GIS_067,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 6 ESTATE,Malaysia,5.3074605,117.7568251,10,POLYGON_INTERIOR_PROXY,MY_GIS_068,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 7 ESTATE,Malaysia,5.2975178,117.6723131,10,POLYGON_INTERIOR_PROXY,MY_GIS_069,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 8 ESTATE,Malaysia,5.2997705,117.7114126,10,POLYGON_INTERIOR_PROXY,MY_GIS_070,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,SYARIMO 9 ESTATE,Malaysia,5.2589928,117.7099514,10,POLYGON_INTERIOR_PROXY,MY_GIS_071,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,TAMBANG ESTATE,Malaysia,2.6461312,102.7044181,10,POLYGON_INTERIOR_PROXY,MY_GIS_072,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,TANGKULAP ESTATE,Malaysia,5.5010388,117.258166,10,POLYGON_INTERIOR_PROXY,MY_GIS_073,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,TAS HALUSAH ESTATE,Malaysia,5.2127952,118.2413973,10,POLYGON_INTERIOR_PROXY,MY_GIS_074,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,TERUSAN BARU ESTATE,Malaysia,5.7860232,117.600745,10,POLYGON_INTERIOR_PROXY,MY_GIS_075,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,TINDAKON ESTATE,Malaysia,5.9746192,117.3662463,10,POLYGON_INTERIOR_PROXY,MY_GIS_076,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,ULU ESTATE,Malaysia,6.0040729,117.3949533,10,POLYGON_INTERIOR_PROXY,MY_GIS_077,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 1 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.416064,118.5173931,10,POLYGON_INTERIOR_PROXY,MY_GIS_078,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 2 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4570258,118.5250786,10,POLYGON_INTERIOR_PROXY,MY_GIS_079,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 3 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4595725,118.5633797,10,POLYGON_INTERIOR_PROXY,MY_GIS_080,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 4 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.4004575,118.5687826,10,POLYGON_INTERIOR_PROXY,MY_GIS_081,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 5 ESTATE (UNICO-DESA PLANTATIONS BERHAD),Malaysia,5.378243,118.5363856,10,POLYGON_INTERIOR_PROXY,MY_GIS_082,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNICO 6 ESTATE,Malaysia,5.1329515,118.1715703,10,POLYGON_INTERIOR_PROXY,MY_GIS_083,https://rspo.org/as-an-organisation/tools/georspo/
+IOI Corporation,UNIJAYA ESTATE,Malaysia,1.9330557,103.276309,10,POLYGON_INTERIOR_PROXY,MY_GIS_084,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BAGAN DATOH ESTATE,Malaysia,4.006759,100.8412354,10,POLYGON_INTERIOR_PROXY,MY_GIS_085,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BAYU ESTATE,Malaysia,3.509454,113.3777718,10,POLYGON_INTERIOR_PROXY,MY_GIS_086,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BELIAN ESTATE (SD GUTHRIE),Malaysia,3.3661045,113.5660071,10,POLYGON_INTERIOR_PROXY,MY_GIS_087,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BIKAM ESTATE,Malaysia,3.944204,101.3160892,10,POLYGON_INTERIOR_PROXY,MY_GIS_088,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BINUANG ESTATE,Malaysia,4.6939875,118.0579794,10,POLYGON_INTERIOR_PROXY,MY_GIS_089,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT ASAHAN ESTATE,Malaysia,2.4174535,102.547244,10,POLYGON_INTERIOR_PROXY,MY_GIS_090,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT BADAK ESTATE,Malaysia,1.8760945,103.5109431,10,POLYGON_INTERIOR_PROXY,MY_GIS_091,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT BENUT ESTATE,Malaysia,1.910729,103.3264825,10,POLYGON_INTERIOR_PROXY,MY_GIS_092,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT CHERAKA ESTATE,Malaysia,3.2551525,101.3303847,10,POLYGON_INTERIOR_PROXY,MY_GIS_093,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT HIJAU ESTATE,Malaysia,5.558281,100.7585081,10,POLYGON_INTERIOR_PROXY,MY_GIS_094,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT KERAYONG ESTATE,Malaysia,3.118475,101.3796407,10,POLYGON_INTERIOR_PROXY,MY_GIS_095,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT PALOH ESTATE,Malaysia,2.150548,103.1838458,10,POLYGON_INTERIOR_PROXY,MY_GIS_096,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT PELANDOK ESTATE,Malaysia,2.690788,101.7650483,10,POLYGON_INTERIOR_PROXY,MY_GIS_097,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT PILAH ESTATE,Malaysia,2.764113,102.528971,10,POLYGON_INTERIOR_PROXY,MY_GIS_098,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT PUTERI ESTATE,Malaysia,4.191957,101.8648772,10,POLYGON_INTERIOR_PROXY,MY_GIS_099,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT SELARONG ESTATE,Malaysia,5.47309,100.6036237,10,POLYGON_INTERIOR_PROXY,MY_GIS_100,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,BUKIT TALANG ESTATE,Malaysia,3.418429,101.274084,10,POLYGON_INTERIOR_PROXY,MY_GIS_101,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CENAS ESTATE,Malaysia,1.9277611,103.5705574,10,POLYGON_INTERIOR_PROXY,MY_GIS_102,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CEP NIYOR ESTATE,Malaysia,2.0835025,103.2318521,10,POLYGON_INTERIOR_PROXY,MY_GIS_103,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CEP RENGAM ESTATE,Malaysia,1.8626778,103.3815086,10,POLYGON_INTERIOR_PROXY,MY_GIS_104,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CHAAH ESTATE,Malaysia,2.145291,102.9668931,10,POLYGON_INTERIOR_PROXY,MY_GIS_105,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CHENOR ESTATE,Malaysia,3.7858655,102.6144412,10,POLYGON_INTERIOR_PROXY,MY_GIS_106,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CHERSONESE ESTATE,Malaysia,4.9859325,100.4653372,10,POLYGON_INTERIOR_PROXY,MY_GIS_107,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,CLUNY ESTATE,Malaysia,3.860586,101.4319012,10,POLYGON_INTERIOR_PROXY,MY_GIS_108,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,DAMAI ESTATE,Malaysia,3.4439035,113.4053674,10,POLYGON_INTERIOR_PROXY,MY_GIS_109,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,DERAWAN ESTATE,Malaysia,3.404589,113.3598686,10,POLYGON_INTERIOR_PROXY,MY_GIS_110,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,DIAMOND JUBILEE ESTATE,Malaysia,2.3565795,102.459764,10,POLYGON_INTERIOR_PROXY,MY_GIS_111,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,DULANG ESTATE,Malaysia,3.4634055,113.685748,10,POLYGON_INTERIOR_PROXY,MY_GIS_112,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,DUSUN DURIAN ESTATE,Malaysia,2.7982245,101.4590725,10,POLYGON_INTERIOR_PROXY,MY_GIS_113,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,EAST ESTATE,Malaysia,2.8591375,101.3898812,10,POLYGON_INTERIOR_PROXY,MY_GIS_114,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,ELPHIL ESTATE,Malaysia,4.841201,101.0974255,10,POLYGON_INTERIOR_PROXY,MY_GIS_115,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,FLEMINGTON ESTATE,Malaysia,3.936176,100.8586973,10,POLYGON_INTERIOR_PROXY,MY_GIS_116,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,GIRAM ESTATE,Malaysia,4.603315,118.2232437,10,POLYGON_INTERIOR_PROXY,MY_GIS_117,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,GUNUNG MAS ESTATE,Malaysia,2.238645,103.1132545,10,POLYGON_INTERIOR_PROXY,MY_GIS_118,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,HOLYROOD ESTATE,Malaysia,5.129133,100.7289538,10,POLYGON_INTERIOR_PROXY,MY_GIS_119,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,IMAM ESTATE,Malaysia,4.364164,118.0078356,10,POLYGON_INTERIOR_PROXY,MY_GIS_120,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,JABOR ESTATE,Malaysia,3.9334575,103.3132425,10,POLYGON_INTERIOR_PROXY,MY_GIS_121,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,JELETA BUMI ESTATE,Malaysia,4.6941485,117.9693139,10,POLYGON_INTERIOR_PROXY,MY_GIS_122,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,JENTAYU ESTATE,Malaysia,5.7781045,100.5677467,10,POLYGON_INTERIOR_PROXY,MY_GIS_123,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KALUMPONG ESTATE,Malaysia,4.9602733,100.5967583,10,POLYGON_INTERIOR_PROXY,MY_GIS_124,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KAMUNING ESTATE,Malaysia,4.852758,101.0211762,10,POLYGON_INTERIOR_PROXY,MY_GIS_125,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KELIDA ESTATE,Malaysia,3.36262,113.6276096,10,POLYGON_INTERIOR_PROXY,MY_GIS_126,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KEMPAS ESTATE,Malaysia,2.236438,102.4311942,10,POLYGON_INTERIOR_PROXY,MY_GIS_127,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KEMPAS KLEBANG ESTATE,Malaysia,2.234148,103.1697721,10,POLYGON_INTERIOR_PROXY,MY_GIS_128,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KEMUNING ESTATE (SD GUTHRIE),Malaysia,2.4901675,102.3752646,10,POLYGON_INTERIOR_PROXY,MY_GIS_129,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KERDAU ESTATE,Malaysia,3.5726975,102.2947525,10,POLYGON_INTERIOR_PROXY,MY_GIS_130,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KINTA KELLAS ESTATE,Malaysia,4.4604695,101.0859363,10,POLYGON_INTERIOR_PROXY,MY_GIS_131,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KOK FOH ESTATE,Malaysia,2.83756,102.5197691,10,POLYGON_INTERIOR_PROXY,MY_GIS_132,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,KULAI ESTATE,Malaysia,1.6419955,103.5210559,10,POLYGON_INTERIOR_PROXY,MY_GIS_133,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LABU ESTATE,Malaysia,2.7225445,101.849038,10,POLYGON_INTERIOR_PROXY,MY_GIS_134,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG BRADWALL,Malaysia,2.5480015,101.9165195,10,POLYGON_INTERIOR_PROXY,MY_GIS_135,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG CHARQUEST,Malaysia,3.486789,113.5959711,10,POLYGON_INTERIOR_PROXY,MY_GIS_136,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG PD LUKUT,Malaysia,2.544082,101.8333132,10,POLYGON_INTERIOR_PROXY,MY_GIS_137,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG SALAK,Malaysia,2.5956435,101.8956677,10,POLYGON_INTERIOR_PROXY,MY_GIS_138,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG SENGKANG,Malaysia,2.4561915,101.9678012,10,POLYGON_INTERIOR_PROXY,MY_GIS_139,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG SUA BETONG,Malaysia,2.516277,101.8994239,10,POLYGON_INTERIOR_PROXY,MY_GIS_140,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG SUNGEI BAHRU,Malaysia,2.4924795,102.0844198,10,POLYGON_INTERIOR_PROXY,MY_GIS_141,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LADANG TAMPIN LINGGI,Malaysia,2.5279995,102.001357,10,POLYGON_INTERIOR_PROXY,MY_GIS_142,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LAMBAK ESTATE,Malaysia,1.9580005,103.3071397,10,POLYGON_INTERIOR_PROXY,MY_GIS_143,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LANADRON ESTATE,Malaysia,2.2154575,102.7596765,10,POLYGON_INTERIOR_PROXY,MY_GIS_144,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LAVANG ESTATE,Malaysia,3.4173655,113.5917434,10,POLYGON_INTERIOR_PROXY,MY_GIS_145,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,LAYANG ESTATE,Malaysia,1.7606045,103.4468937,10,POLYGON_INTERIOR_PROXY,MY_GIS_146,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,MELALAP ESTATE,Malaysia,5.225622,115.9974851,10,POLYGON_INTERIOR_PROXY,MY_GIS_147,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,MENTAKAB ESTATE,Malaysia,3.520208,102.2664634,10,POLYGON_INTERIOR_PROXY,MY_GIS_148,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,MEROTAI ESTATE,Malaysia,4.3933965,117.8140445,10,POLYGON_INTERIOR_PROXY,MY_GIS_149,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,MOSTYN ESTATE,Malaysia,4.6683475,118.1649323,10,POLYGON_INTERIOR_PROXY,MY_GIS_150,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,MUAR RIVER ESTATE,Malaysia,2.5847015,102.7375461,10,POLYGON_INTERIOR_PROXY,MY_GIS_151,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,NORTH LABIS ESTATE,Malaysia,2.3822465,103.0487186,10,POLYGON_INTERIOR_PROXY,MY_GIS_152,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PADANG BULUH ESTATE,Malaysia,5.5804661,100.5651955,10,POLYGON_INTERIOR_PROXY,MY_GIS_153,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PAGOH ESTATE,Malaysia,2.069514,102.7006769,10,POLYGON_INTERIOR_PROXY,MY_GIS_154,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PAROH ESTATE,Malaysia,3.464425,113.7373175,10,POLYGON_INTERIOR_PROXY,MY_GIS_155,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PEKAKA ESTATE,Malaysia,3.4834955,113.6422427,10,POLYGON_INTERIOR_PROXY,MY_GIS_156,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PEKAN ESTATE,Malaysia,1.8306225,103.600569,10,POLYGON_INTERIOR_PROXY,MY_GIS_157,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PENGKALAN BUKIT ESTATE,Malaysia,2.137823,102.7917607,10,POLYGON_INTERIOR_PROXY,MY_GIS_158,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,PERTANG ESTATE,Malaysia,2.9808465,102.2439977,10,POLYGON_INTERIOR_PROXY,MY_GIS_159,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,RAJAWALI ESTATE,Malaysia,3.363156,113.4037194,10,POLYGON_INTERIOR_PROXY,MY_GIS_160,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,RASAN ESTATE,Malaysia,3.409972,113.6425046,10,POLYGON_INTERIOR_PROXY,MY_GIS_161,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,RUAI ESTATE,Malaysia,3.442412,113.6377853,10,POLYGON_INTERIOR_PROXY,MY_GIS_162,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SABAK BERNAM ESTATE,Malaysia,3.7571385,101.0071728,10,POLYGON_INTERIOR_PROXY,MY_GIS_163,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SAHUA ESTATE,Malaysia,3.4624145,113.3634966,10,POLYGON_INTERIOR_PROXY,MY_GIS_164,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SAMUDERA ESTATE,Malaysia,3.5031975,113.4134615,10,POLYGON_INTERIOR_PROXY,MY_GIS_165,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SAPONG ESTATE,Malaysia,5.0510395,115.9300945,10,POLYGON_INTERIOR_PROXY,MY_GIS_166,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SEGALIUD ESTATE,Malaysia,5.712161,117.752599,10,POLYGON_INTERIOR_PROXY,MY_GIS_167,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SEMARAK ESTATE,Malaysia,3.3568505,113.3679888,10,POLYGON_INTERIOR_PROXY,MY_GIS_168,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SEMBRONG ESTATE,Malaysia,1.876973,103.460785,10,POLYGON_INTERIOR_PROXY,MY_GIS_169,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SENTOSA ESTATE,Malaysia,5.5970905,118.1791143,10,POLYGON_INTERIOR_PROXY,MY_GIS_170,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SEPANG ESTATE,Malaysia,4.014176,100.9674865,10,POLYGON_INTERIOR_PROXY,MY_GIS_171,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SERI INTAN ESTATE,Malaysia,3.961705,100.9991435,10,POLYGON_INTERIOR_PROXY,MY_GIS_172,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SERI PULAI ESTATE,Malaysia,1.616977,103.4909725,10,POLYGON_INTERIOR_PROXY,MY_GIS_173,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SERKAM ESTATE,Malaysia,2.3246825,102.4210508,10,POLYGON_INTERIOR_PROXY,MY_GIS_174,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SG MAI ESTATE,Malaysia,3.8260845,102.337201,10,POLYGON_INTERIOR_PROXY,MY_GIS_175,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SG. SABALING ESTATE,Malaysia,2.843229,102.4746317,10,POLYGON_INTERIOR_PROXY,MY_GIS_176,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SG. SENARUT ESTATE,Malaysia,2.552592,102.6966151,10,POLYGON_INTERIOR_PROXY,MY_GIS_177,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SG. SIMPANG KIRI ESTATE,Malaysia,2.1185735,102.9754745,10,POLYGON_INTERIOR_PROXY,MY_GIS_178,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SOGOMANA ESTATE,Malaysia,4.4050748,100.6960661,10,POLYGON_INTERIOR_PROXY,MY_GIS_179,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SOMME ESTATE,Malaysia,5.30117,100.5883444,10,POLYGON_INTERIOR_PROXY,MY_GIS_180,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,ST. HELIER ESTATE,Malaysia,2.807013,102.3004089,10,POLYGON_INTERIOR_PROXY,MY_GIS_181,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SUNGAI BULOH ESTATE,Malaysia,3.3323325,101.3305779,10,POLYGON_INTERIOR_PROXY,MY_GIS_182,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SUNGAI DINGIN ESTATE,Malaysia,5.372802,100.7127859,10,POLYGON_INTERIOR_PROXY,MY_GIS_183,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SUNGAI SAMAK ESTATE,Malaysia,3.770793,101.1439685,10,POLYGON_INTERIOR_PROXY,MY_GIS_184,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SUNGAI WANGI ESTATE,Malaysia,4.2350016,100.7208013,10,POLYGON_INTERIOR_PROXY,MY_GIS_185,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,SUNGANG ESTATE,Malaysia,4.6587695,118.1234546,10,POLYGON_INTERIOR_PROXY,MY_GIS_186,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TABLE ESTATE,Malaysia,4.367402,117.8685849,10,POLYGON_INTERIOR_PROXY,MY_GIS_187,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TAKAU ESTATE,Malaysia,3.382167,113.3360952,10,POLYGON_INTERIOR_PROXY,MY_GIS_188,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TALI AYER ESTATE,Malaysia,5.0763525,100.5643906,10,POLYGON_INTERIOR_PROXY,MY_GIS_189,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TANAH MERAH ESTATE,Malaysia,2.635062,101.8186573,10,POLYGON_INTERIOR_PROXY,MY_GIS_190,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TANGKAH ESTATE,Malaysia,2.272194,102.5860858,10,POLYGON_INTERIOR_PROXY,MY_GIS_191,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TENNAMARAM ESTATE,Malaysia,3.407271,101.3987293,10,POLYGON_INTERIOR_PROXY,MY_GIS_192,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TIGER ESTATE,Malaysia,4.4086955,117.8425259,10,POLYGON_INTERIOR_PROXY,MY_GIS_193,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TIGOWIS ESTATE,Malaysia,5.744093,118.228058,10,POLYGON_INTERIOR_PROXY,MY_GIS_194,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TINGKAYU ESTATE,Malaysia,4.712612,118.0787165,10,POLYGON_INTERIOR_PROXY,MY_GIS_195,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TUN DR ISMAIL ESTATE,Malaysia,1.8216755,103.3764517,10,POLYGON_INTERIOR_PROXY,MY_GIS_196,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TUN TAN SIEW SIN ESTATE,Malaysia,5.6522305,118.192572,10,POLYGON_INTERIOR_PROXY,MY_GIS_197,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,TUNKU ESTATE,Malaysia,5.6974105,118.2057119,10,POLYGON_INTERIOR_PROXY,MY_GIS_198,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,ULU REMIS ESTATE,Malaysia,1.8461115,103.4877954,10,POLYGON_INTERIOR_PROXY,MY_GIS_199,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,WELCH ESTATE,Malaysia,2.452697,102.646662,10,POLYGON_INTERIOR_PROXY,MY_GIS_200,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,WEST ESTATE,Malaysia,2.864247,101.3363965,10,POLYGON_INTERIOR_PROXY,MY_GIS_201,https://rspo.org/as-an-organisation/tools/georspo/
+SD Guthrie,YONG PENG ESTATE,Malaysia,2.0760685,103.1109714,10,POLYGON_INTERIOR_PROXY,MY_GIS_202,https://rspo.org/as-an-organisation/tools/georspo/
+United Plantations Berhad,CHANGKAT MENTRI ESTATE,Malaysia,3.745005,101.235793,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_203,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,JENDARATA ESTATE,Malaysia,3.9001667,100.9773611,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_204,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,LADANG SUNGEI ERONG,Malaysia,3.7939425,101.2060126,10,POLYGON_INTERIOR_PROXY,MY_GIS_205,https://rspo.org/as-an-organisation/tools/georspo/
+United Plantations Berhad,LIMA BLAS ESTATE,Malaysia,3.79265,101.35115,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_206,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,Lada Estate (PT Surya Sawit Sejati),Indonesia,-2.4930556,111.7230556,10,RSPO_CERTIFICATE_GPS,,https://mutucertification.com/wp-content/uploads/2023/10/RSPO-Recertification-Summary-Report-of-Lada-POM-PT-Surya-Sawit-Sejati.pdf
+United Plantations Berhad,Runtu Estate (PT Surya Sawit Sejati),Indonesia,-2.3752778,111.6894444,10,RSPO_CERTIFICATE_GPS,,https://mutucertification.com/wp-content/uploads/2023/10/RSPO-Recertification-Summary-Report-of-Lada-POM-PT-Surya-Sawit-Sejati.pdf
+United Plantations Berhad,SERI PELANGI ESTATE,Malaysia,3.9936944,101.1596944,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_207,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,SUNGAI CHAWANG ESTATE,Malaysia,3.8472575,101.2132837,10,POLYGON_INTERIOR_PROXY,MY_GIS_208,https://rspo.org/as-an-organisation/tools/georspo/
+United Plantations Berhad,TANARATA ESTATE,Malaysia,3.97,101.0968889,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_209,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,UIE ESTATE,Malaysia,4.4478111,100.7206889,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_210,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,ULU BASIR ESTATE,Malaysia,3.724305,101.253981,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_211,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+United Plantations Berhad,ULU BERNAM ESTATE,Malaysia,3.748,101.145622,10,OFFICIAL_MSPO_SITE_GPS,MY_GIS_212,https://unitedplantations.com/wp-content/uploads/2025/07/MSPO-Certificates_UP-Malaysia.pdf
+Sarawak Plantation Berhad,Mukah 1 Estate,Malaysia,2.6250757,112.328246,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Matadeng Estate,Malaysia,2.88820456,112.3925522,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Bakau Estate,Malaysia,2.78983152,112.4566635,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Bukut Estate,Malaysia,2.69305069,112.4866078,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Mukah 3 Estate,Malaysia,2.71661792,112.382426,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Melugu Estate,Malaysia,1.120389,111.364639,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Tulai Estate,Malaysia,2.1588,112.7846,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Ladang 3 Estate,Malaysia,3.86,113.8662,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Subis Estate,Malaysia,3.82009,113.878239,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Sawai Estate,Malaysia,3.5412,113.7177,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Peninjau Estate,Malaysia,4.036921,114.00092,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Pinji Mewah Estate,Malaysia,4.050864,114.269458,10,MSPO GPS,,https://nioshcert.com.my/mspo/
+Sarawak Plantation Berhad,Karabungan Estate,Malaysia,3.8797,113.8404,10,MSPO GPS,,https://nioshcert.com.my/mspo/

@@ -173,7 +173,8 @@ def update_data(force=False):
         "fire_saved_at": now,
         "updated_at": now,
         "analysis_method": "Point-based screening",
-        "fire_radius_km": 10,
+        "fire_radius_km": 5,
+        "fire_nearby_radius_km": 10,
         "haze_max_sample_distance_km": 65
     }
 
